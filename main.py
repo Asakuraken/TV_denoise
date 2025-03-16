@@ -1,25 +1,31 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from skimage import io, img_as_float
-from skimage.restoration import denoise_tv_chambolle
+from skimage.restoration import denoise_tv_chambolle, denoise_tv_bregman
+from utils import read_image
 
-def read_image(image_path, as_gray=True):
-    image = img_as_float(io.imread(image_path, as_gray=as_gray))
-    return image
-
-def tv_denoise(image, weight=0.1):
-    denoised_image = denoise_tv_chambolle(image, weight=weight, channel_axis=-1)
+def tv_denoise(image, weight=0.1, method='chambolle-dual'):
+    if method == 'chambolle-dual':
+        denoised_image = denoise_tv_chambolle(image, weight=weight, channel_axis=-1)
+    elif method == 'bregman':
+        denoised_image = denoise_tv_bregman(image, weight=weight, channel_axis=-1)
+    else:
+        raise ValueError(f"Invalid method {method}.")
     return denoised_image
 
 
 if __name__ == "__main__":
     image_path = "image1.jpeg" 
-    image = read_image(image_path, False)
+    method = 'chambolle-dual'
+    is_gray = True
+    image = read_image(image_path, is_gray)
 
     noisy_image = image + 0.1 * np.random.normal(size=image.shape)
     noisy_image = np.clip(noisy_image, 0, 1)
 
     denoised_image = tv_denoise(noisy_image, weight=0.2)
+
+
+    print(noisy_image.dtype)
 
     fig, ax = plt.subplots(1, 3, figsize=(12, 4))
     ax[0].imshow(image, cmap='gray')
