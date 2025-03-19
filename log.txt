@@ -1,0 +1,3600 @@
+INFO:root:Image: 0478.png
+INFO:root:  SNR Before: 12.75, After: 4.36
+INFO:root:  PSNR Before: 17.03, After: 20.22
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0321.png
+INFO:root:  SNR Before: 0.33, After: -0.38
+INFO:root:  PSNR Before: 7.35, After: 9.00
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0800.png
+INFO:root:  SNR Before: 12.30, After: 4.08
+INFO:root:  PSNR Before: 16.88, After: 21.02
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0480.png
+INFO:root:  SNR Before: 2.99, After: 2.20
+INFO:root:  PSNR Before: 28.28, After: 24.54
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0038.png
+INFO:root:  SNR Before: 3.77, After: 1.09
+INFO:root:  PSNR Before: 29.30, After: 22.15
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0788.png
+INFO:root:  SNR Before: 0.19, After: -0.23
+INFO:root:  PSNR Before: 5.90, After: 7.63
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0333.png
+INFO:root:  SNR Before: 12.35, After: 1.54
+INFO:root:  PSNR Before: 17.31, After: 20.04
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0238.png
+INFO:root:  SNR Before: 12.35, After: 3.56
+INFO:root:  PSNR Before: 17.15, After: 21.19
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0313.png
+INFO:root:  SNR Before: 3.04, After: 2.05
+INFO:root:  PSNR Before: 27.44, After: 23.82
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0161.png
+INFO:root:  SNR Before: 2.58, After: 0.88
+INFO:root:  PSNR Before: 27.37, After: 21.80
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0581.png
+INFO:root:  SNR Before: 12.35, After: 1.86
+INFO:root:  PSNR Before: 17.20, After: 20.70
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0040.png
+INFO:root:  SNR Before: 0.21, After: -0.49
+INFO:root:  PSNR Before: 8.30, After: 10.22
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0598.png
+INFO:root:  SNR Before: 0.32, After: -0.08
+INFO:root:  PSNR Before: 5.73, After: 7.38
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0481.png
+INFO:root:  SNR Before: 2.60, After: 1.50
+INFO:root:  PSNR Before: 27.45, After: 24.04
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0135.png
+INFO:root:  SNR Before: 0.16, After: -0.34
+INFO:root:  PSNR Before: 6.55, After: 8.25
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0498.png
+INFO:root:  SNR Before: 0.61, After: 0.07
+INFO:root:  PSNR Before: 11.27, After: 12.98
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0335.png
+INFO:root:  SNR Before: 2.46, After: 0.67
+INFO:root:  PSNR Before: 27.49, After: 22.60
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0393.png
+INFO:root:  SNR Before: 3.00, After: 2.56
+INFO:root:  PSNR Before: 27.54, After: 25.06
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0797.png
+INFO:root:  SNR Before: 12.33, After: 0.54
+INFO:root:  PSNR Before: 17.25, After: 18.63
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0136.png
+INFO:root:  SNR Before: 0.32, After: -0.33
+INFO:root:  PSNR Before: 9.17, After: 10.91
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0756.png
+INFO:root:  SNR Before: 0.38, After: -0.09
+INFO:root:  PSNR Before: 8.81, After: 10.37
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0708.png
+INFO:root:  SNR Before: 4.68, After: 4.71
+INFO:root:  PSNR Before: 30.64, After: 29.41
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0456.png
+INFO:root:  SNR Before: 0.51, After: 0.06
+INFO:root:  PSNR Before: 8.34, After: 9.88
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0385.png
+INFO:root:  SNR Before: 12.35, After: 1.18
+INFO:root:  PSNR Before: 17.35, After: 19.26
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0266.png
+INFO:root:  SNR Before: 3.95, After: 0.99
+INFO:root:  PSNR Before: 29.92, After: 22.85
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0590.png
+INFO:root:  SNR Before: 2.65, After: 2.06
+INFO:root:  PSNR Before: 27.84, After: 24.72
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0778.png
+INFO:root:  SNR Before: 0.42, After: -0.08
+INFO:root:  PSNR Before: 8.27, After: 9.98
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0024.png
+INFO:root:  SNR Before: 3.80, After: 1.23
+INFO:root:  PSNR Before: 29.86, After: 24.87
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0208.png
+INFO:root:  SNR Before: 12.34, After: 1.31
+INFO:root:  PSNR Before: 17.02, After: 19.61
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0464.png
+INFO:root:  SNR Before: 0.36, After: -0.10
+INFO:root:  PSNR Before: 6.76, After: 8.51
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0491.png
+INFO:root:  SNR Before: 0.51, After: -0.32
+INFO:root:  PSNR Before: 8.16, After: 9.76
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0426.png
+INFO:root:  SNR Before: 2.62, After: 0.98
+INFO:root:  PSNR Before: 27.50, After: 22.07
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0199.png
+INFO:root:  SNR Before: 12.34, After: 1.81
+INFO:root:  PSNR Before: 17.30, After: 20.62
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0520.png
+INFO:root:  SNR Before: 12.34, After: 1.17
+INFO:root:  PSNR Before: 16.27, After: 19.35
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0529.png
+INFO:root:  SNR Before: -0.10, After: -0.56
+INFO:root:  PSNR Before: 5.38, After: 7.01
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0220.png
+INFO:root:  SNR Before: 0.50, After: 0.07
+INFO:root:  PSNR Before: 6.98, After: 8.75
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0089.png
+INFO:root:  SNR Before: 12.34, After: 0.63
+INFO:root:  PSNR Before: 17.22, After: 19.79
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0059.png
+INFO:root:  SNR Before: 12.33, After: 2.70
+INFO:root:  PSNR Before: 16.73, After: 20.39
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0575.png
+INFO:root:  SNR Before: 2.92, After: 1.26
+INFO:root:  PSNR Before: 27.79, After: 25.18
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0639.png
+INFO:root:  SNR Before: 2.74, After: 0.62
+INFO:root:  PSNR Before: 27.74, After: 21.30
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0154.png
+INFO:root:  SNR Before: 12.34, After: 0.54
+INFO:root:  PSNR Before: 17.30, After: 19.62
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0326.png
+INFO:root:  SNR Before: 4.39, After: 2.57
+INFO:root:  PSNR Before: 30.05, After: 27.13
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0717.png
+INFO:root:  SNR Before: 0.15, After: -0.52
+INFO:root:  PSNR Before: 5.65, After: 7.35
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0550.png
+INFO:root:  SNR Before: 0.33, After: -0.07
+INFO:root:  PSNR Before: 5.49, After: 7.18
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0020.png
+INFO:root:  SNR Before: 12.35, After: 4.38
+INFO:root:  PSNR Before: 17.17, After: 21.50
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0171.png
+INFO:root:  SNR Before: 0.39, After: 0.01
+INFO:root:  PSNR Before: 6.93, After: 8.69
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0011.png
+INFO:root:  SNR Before: 12.35, After: 0.76
+INFO:root:  PSNR Before: 17.60, After: 20.67
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0527.png
+INFO:root:  SNR Before: 2.37, After: 2.73
+INFO:root:  PSNR Before: 26.42, After: 24.41
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0367.png
+INFO:root:  SNR Before: 0.43, After: -0.38
+INFO:root:  PSNR Before: 8.10, After: 9.77
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0191.png
+INFO:root:  SNR Before: 0.08, After: -0.36
+INFO:root:  PSNR Before: 6.50, After: 8.13
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0055.png
+INFO:root:  SNR Before: 12.31, After: 4.90
+INFO:root:  PSNR Before: 16.64, After: 20.69
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0499.png
+INFO:root:  SNR Before: 0.32, After: -0.32
+INFO:root:  PSNR Before: 8.73, After: 10.27
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0334.png
+INFO:root:  SNR Before: 12.31, After: 0.97
+INFO:root:  PSNR Before: 16.84, After: 19.86
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0022.png
+INFO:root:  SNR Before: 12.35, After: 1.21
+INFO:root:  PSNR Before: 17.58, After: 20.36
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0664.png
+INFO:root:  SNR Before: 0.36, After: -0.27
+INFO:root:  PSNR Before: 10.30, After: 12.04
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0565.png
+INFO:root:  SNR Before: 12.41, After: 0.28
+INFO:root:  PSNR Before: 16.69, After: 18.47
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0247.png
+INFO:root:  SNR Before: 0.53, After: -0.01
+INFO:root:  PSNR Before: 7.67, After: 9.29
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0037.png
+INFO:root:  SNR Before: 12.29, After: -0.28
+INFO:root:  PSNR Before: 16.46, After: 19.05
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0275.png
+INFO:root:  SNR Before: 12.36, After: 1.90
+INFO:root:  PSNR Before: 16.50, After: 19.78
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0235.png
+INFO:root:  SNR Before: 0.49, After: 0.14
+INFO:root:  PSNR Before: 6.91, After: 8.72
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0432.png
+INFO:root:  SNR Before: 12.36, After: 3.65
+INFO:root:  PSNR Before: 17.39, After: 21.45
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0623.png
+INFO:root:  SNR Before: 12.34, After: 1.42
+INFO:root:  PSNR Before: 17.04, After: 19.72
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0781.png
+INFO:root:  SNR Before: 2.15, After: 1.12
+INFO:root:  PSNR Before: 26.77, After: 21.97
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0166.png
+INFO:root:  SNR Before: 12.35, After: 1.34
+INFO:root:  PSNR Before: 17.47, After: 20.40
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0487.png
+INFO:root:  SNR Before: 12.30, After: 1.33
+INFO:root:  PSNR Before: 16.79, After: 19.23
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0462.png
+INFO:root:  SNR Before: 12.32, After: 1.05
+INFO:root:  PSNR Before: 17.41, After: 19.88
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0508.png
+INFO:root:  SNR Before: -1.34, After: -1.94
+INFO:root:  PSNR Before: 6.24, After: 7.56
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0537.png
+INFO:root:  SNR Before: 12.39, After: 2.06
+INFO:root:  PSNR Before: 16.80, After: 19.35
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0088.png
+INFO:root:  SNR Before: 12.34, After: 0.12
+INFO:root:  PSNR Before: 16.47, After: 19.55
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0285.png
+INFO:root:  SNR Before: 12.35, After: 1.83
+INFO:root:  PSNR Before: 17.17, After: 20.44
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0540.png
+INFO:root:  SNR Before: 12.34, After: 1.57
+INFO:root:  PSNR Before: 17.15, After: 20.20
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0579.png
+INFO:root:  SNR Before: 0.41, After: -0.12
+INFO:root:  PSNR Before: 7.17, After: 8.73
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0609.png
+INFO:root:  SNR Before: 0.42, After: -0.15
+INFO:root:  PSNR Before: 7.46, After: 9.22
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0755.png
+INFO:root:  SNR Before: 3.30, After: 1.52
+INFO:root:  PSNR Before: 28.59, After: 23.77
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0701.png
+INFO:root:  SNR Before: 0.20, After: -0.45
+INFO:root:  PSNR Before: 6.68, After: 8.21
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0741.png
+INFO:root:  SNR Before: 0.27, After: -0.43
+INFO:root:  PSNR Before: 7.35, After: 9.14
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0653.png
+INFO:root:  SNR Before: 0.32, After: -0.12
+INFO:root:  PSNR Before: 7.22, After: 8.79
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0248.png
+INFO:root:  SNR Before: 2.81, After: 0.68
+INFO:root:  PSNR Before: 28.20, After: 23.00
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0260.png
+INFO:root:  SNR Before: -0.15, After: -1.20
+INFO:root:  PSNR Before: 8.09, After: 9.94
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0652.png
+INFO:root:  SNR Before: 0.40, After: -0.15
+INFO:root:  PSNR Before: 8.29, After: 9.98
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0105.png
+INFO:root:  SNR Before: 2.29, After: 1.04
+INFO:root:  PSNR Before: 27.19, After: 23.69
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0016.png
+INFO:root:  SNR Before: 0.43, After: 0.09
+INFO:root:  PSNR Before: 8.40, After: 9.98
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0179.png
+INFO:root:  SNR Before: 0.55, After: 0.28
+INFO:root:  PSNR Before: 5.50, After: 7.26
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0134.png
+INFO:root:  SNR Before: 0.43, After: 0.09
+INFO:root:  PSNR Before: 8.32, After: 9.95
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0767.png
+INFO:root:  SNR Before: 1.90, After: 3.08
+INFO:root:  PSNR Before: 25.95, After: 28.77
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0203.png
+INFO:root:  SNR Before: 4.07, After: 2.94
+INFO:root:  PSNR Before: 30.07, After: 25.78
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0671.png
+INFO:root:  SNR Before: 12.35, After: 1.02
+INFO:root:  PSNR Before: 17.18, After: 18.85
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0063.png
+INFO:root:  SNR Before: -0.40, After: -0.93
+INFO:root:  PSNR Before: 6.21, After: 7.71
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0366.png
+INFO:root:  SNR Before: 0.16, After: -0.24
+INFO:root:  PSNR Before: 5.64, After: 7.31
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0447.png
+INFO:root:  SNR Before: 12.36, After: 1.26
+INFO:root:  PSNR Before: 17.10, After: 19.82
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0300.png
+INFO:root:  SNR Before: 12.34, After: 1.20
+INFO:root:  PSNR Before: 16.96, After: 19.70
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0763.png
+INFO:root:  SNR Before: 0.13, After: -0.54
+INFO:root:  PSNR Before: 8.44, After: 9.91
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0274.png
+INFO:root:  SNR Before: 0.40, After: -0.03
+INFO:root:  PSNR Before: 7.54, After: 9.21
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0190.png
+INFO:root:  SNR Before: 12.33, After: 2.22
+INFO:root:  PSNR Before: 17.70, After: 22.18
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0168.png
+INFO:root:  SNR Before: 4.61, After: 4.36
+INFO:root:  PSNR Before: 30.31, After: 28.09
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0188.png
+INFO:root:  SNR Before: 2.75, After: 3.09
+INFO:root:  PSNR Before: 27.91, After: 27.85
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0705.png
+INFO:root:  SNR Before: 0.37, After: 0.04
+INFO:root:  PSNR Before: 7.98, After: 9.52
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0084.png
+INFO:root:  SNR Before: 1.97, After: 3.57
+INFO:root:  PSNR Before: 26.22, After: 28.37
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0626.png
+INFO:root:  SNR Before: 0.51, After: 0.14
+INFO:root:  PSNR Before: 6.06, After: 7.78
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0672.png
+INFO:root:  SNR Before: 3.28, After: 3.43
+INFO:root:  PSNR Before: 28.30, After: 26.78
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0322.png
+INFO:root:  SNR Before: 0.37, After: -0.11
+INFO:root:  PSNR Before: 7.49, After: 9.25
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0281.png
+INFO:root:  SNR Before: 12.33, After: 0.83
+INFO:root:  PSNR Before: 16.65, After: 18.53
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0234.png
+INFO:root:  SNR Before: 12.30, After: 0.28
+INFO:root:  PSNR Before: 16.44, After: 19.00
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0158.png
+INFO:root:  SNR Before: 0.43, After: -0.08
+INFO:root:  PSNR Before: 9.37, After: 10.96
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0483.png
+INFO:root:  SNR Before: 0.33, After: -0.20
+INFO:root:  PSNR Before: 7.23, After: 8.90
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0495.png
+INFO:root:  SNR Before: 0.33, After: -0.19
+INFO:root:  PSNR Before: 7.09, After: 8.90
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0330.png
+INFO:root:  SNR Before: 0.25, After: -0.04
+INFO:root:  PSNR Before: 4.97, After: 6.70
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0783.png
+INFO:root:  SNR Before: 2.68, After: 2.32
+INFO:root:  PSNR Before: 27.75, After: 27.53
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0086.png
+INFO:root:  SNR Before: 0.24, After: -0.23
+INFO:root:  PSNR Before: 9.03, After: 10.52
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0697.png
+INFO:root:  SNR Before: 2.96, After: 1.85
+INFO:root:  PSNR Before: 27.52, After: 25.91
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0412.png
+INFO:root:  SNR Before: 0.47, After: 0.06
+INFO:root:  PSNR Before: 5.97, After: 7.65
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0074.png
+INFO:root:  SNR Before: 0.45, After: 0.01
+INFO:root:  PSNR Before: 9.89, After: 11.65
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0716.png
+INFO:root:  SNR Before: 2.99, After: 1.73
+INFO:root:  PSNR Before: 28.25, After: 25.17
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0678.png
+INFO:root:  SNR Before: 0.80, After: 0.21
+INFO:root:  PSNR Before: 8.56, After: 10.24
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0096.png
+INFO:root:  SNR Before: 0.43, After: -0.01
+INFO:root:  PSNR Before: 6.36, After: 8.10
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0010.png
+INFO:root:  SNR Before: 2.63, After: 1.13
+INFO:root:  PSNR Before: 27.81, After: 23.15
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0591.png
+INFO:root:  SNR Before: 12.36, After: 0.69
+INFO:root:  PSNR Before: 17.80, After: 19.89
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0589.png
+INFO:root:  SNR Before: 12.35, After: 1.75
+INFO:root:  PSNR Before: 16.74, After: 19.23
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0210.png
+INFO:root:  SNR Before: 0.41, After: -0.16
+INFO:root:  PSNR Before: 9.26, After: 10.94
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0360.png
+INFO:root:  SNR Before: 5.37, After: 2.91
+INFO:root:  PSNR Before: 32.93, After: 29.05
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0112.png
+INFO:root:  SNR Before: 12.31, After: 3.26
+INFO:root:  PSNR Before: 16.77, After: 20.56
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0726.png
+INFO:root:  SNR Before: 12.34, After: 0.90
+INFO:root:  PSNR Before: 17.59, After: 20.87
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0558.png
+INFO:root:  SNR Before: 4.08, After: 2.97
+INFO:root:  PSNR Before: 29.77, After: 26.76
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0709.png
+INFO:root:  SNR Before: 2.26, After: 1.12
+INFO:root:  PSNR Before: 26.60, After: 22.40
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0531.png
+INFO:root:  SNR Before: 2.52, After: 1.07
+INFO:root:  PSNR Before: 27.60, After: 25.59
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0482.png
+INFO:root:  SNR Before: 12.34, After: 1.00
+INFO:root:  PSNR Before: 17.44, After: 20.01
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0186.png
+INFO:root:  SNR Before: -1.43, After: -1.99
+INFO:root:  PSNR Before: 4.60, After: 6.18
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0799.png
+INFO:root:  SNR Before: 2.06, After: 1.28
+INFO:root:  PSNR Before: 27.07, After: 24.87
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0668.png
+INFO:root:  SNR Before: 12.34, After: 1.91
+INFO:root:  PSNR Before: 17.32, After: 20.57
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0710.png
+INFO:root:  SNR Before: 12.35, After: 2.01
+INFO:root:  PSNR Before: 17.21, After: 19.97
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0119.png
+INFO:root:  SNR Before: 1.96, After: 0.96
+INFO:root:  PSNR Before: 26.01, After: 23.28
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0748.png
+INFO:root:  SNR Before: 12.35, After: 1.62
+INFO:root:  PSNR Before: 17.23, After: 20.13
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0319.png
+INFO:root:  SNR Before: 0.37, After: -0.26
+INFO:root:  PSNR Before: 8.61, After: 10.32
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0050.png
+INFO:root:  SNR Before: 0.20, After: -0.26
+INFO:root:  PSNR Before: 6.74, After: 8.47
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0646.png
+INFO:root:  SNR Before: 12.35, After: 1.00
+INFO:root:  PSNR Before: 17.09, After: 19.86
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0471.png
+INFO:root:  SNR Before: 12.40, After: 0.69
+INFO:root:  PSNR Before: 16.67, After: 18.77
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0051.png
+INFO:root:  SNR Before: 3.15, After: 1.15
+INFO:root:  PSNR Before: 28.67, After: 22.65
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0742.png
+INFO:root:  SNR Before: 0.52, After: -0.58
+INFO:root:  PSNR Before: 11.99, After: 13.00
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0684.png
+INFO:root:  SNR Before: 0.39, After: 0.23
+INFO:root:  PSNR Before: 6.94, After: 8.59
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0556.png
+INFO:root:  SNR Before: 12.28, After: 1.69
+INFO:root:  PSNR Before: 16.61, After: 19.39
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0340.png
+INFO:root:  SNR Before: 3.30, After: 1.60
+INFO:root:  PSNR Before: 28.68, After: 23.04
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0241.png
+INFO:root:  SNR Before: 12.32, After: 1.20
+INFO:root:  PSNR Before: 17.11, After: 20.30
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0564.png
+INFO:root:  SNR Before: 12.35, After: 2.78
+INFO:root:  PSNR Before: 17.28, After: 21.56
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0076.png
+INFO:root:  SNR Before: 4.19, After: 0.69
+INFO:root:  PSNR Before: 30.59, After: 23.14
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0143.png
+INFO:root:  SNR Before: 2.82, After: 3.97
+INFO:root:  PSNR Before: 27.86, After: 29.24
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0133.png
+INFO:root:  SNR Before: 2.66, After: 1.97
+INFO:root:  PSNR Before: 26.77, After: 24.62
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0002.png
+INFO:root:  SNR Before: 12.35, After: 1.69
+INFO:root:  PSNR Before: 17.22, After: 20.06
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0586.png
+INFO:root:  SNR Before: 0.49, After: 0.10
+INFO:root:  PSNR Before: 9.17, After: 10.82
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0307.png
+INFO:root:  SNR Before: -0.40, After: -0.96
+INFO:root:  PSNR Before: 5.75, After: 7.43
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0224.png
+INFO:root:  SNR Before: 2.95, After: 3.72
+INFO:root:  PSNR Before: 27.91, After: 28.21
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0754.png
+INFO:root:  SNR Before: 12.35, After: 0.22
+INFO:root:  PSNR Before: 17.29, After: 19.02
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0365.png
+INFO:root:  SNR Before: -0.29, After: -0.80
+INFO:root:  PSNR Before: 6.08, After: 7.72
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0612.png
+INFO:root:  SNR Before: 3.19, After: 3.07
+INFO:root:  PSNR Before: 28.37, After: 27.16
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0033.png
+INFO:root:  SNR Before: 0.38, After: -0.04
+INFO:root:  PSNR Before: 6.52, After: 8.15
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0197.png
+INFO:root:  SNR Before: 12.34, After: 0.38
+INFO:root:  PSNR Before: 17.09, After: 19.31
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0713.png
+INFO:root:  SNR Before: 2.18, After: 4.50
+INFO:root:  PSNR Before: 27.27, After: 27.14
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0551.png
+INFO:root:  SNR Before: 2.06, After: 2.19
+INFO:root:  PSNR Before: 26.68, After: 27.07
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0553.png
+INFO:root:  SNR Before: 12.32, After: 0.79
+INFO:root:  PSNR Before: 16.90, After: 18.83
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0657.png
+INFO:root:  SNR Before: 0.39, After: -0.05
+INFO:root:  PSNR Before: 7.32, After: 8.95
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0601.png
+INFO:root:  SNR Before: 2.53, After: 0.95
+INFO:root:  PSNR Before: 27.43, After: 22.67
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0229.png
+INFO:root:  SNR Before: 0.32, After: -0.27
+INFO:root:  PSNR Before: 7.25, After: 8.96
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0490.png
+INFO:root:  SNR Before: 12.29, After: 3.91
+INFO:root:  PSNR Before: 16.53, After: 19.89
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0327.png
+INFO:root:  SNR Before: 0.98, After: 0.50
+INFO:root:  PSNR Before: 12.56, After: 14.07
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0047.png
+INFO:root:  SNR Before: 12.34, After: 3.81
+INFO:root:  PSNR Before: 17.53, After: 22.36
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0568.png
+INFO:root:  SNR Before: 2.45, After: 2.32
+INFO:root:  PSNR Before: 26.46, After: 24.13
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0791.png
+INFO:root:  SNR Before: 0.52, After: 0.04
+INFO:root:  PSNR Before: 10.10, After: 11.68
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0662.png
+INFO:root:  SNR Before: 1.90, After: 1.01
+INFO:root:  PSNR Before: 26.30, After: 21.91
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0309.png
+INFO:root:  SNR Before: 3.87, After: 0.34
+INFO:root:  PSNR Before: 30.11, After: 22.61
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0504.png
+INFO:root:  SNR Before: 0.45, After: -0.00
+INFO:root:  PSNR Before: 7.67, After: 9.45
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0523.png
+INFO:root:  SNR Before: 3.09, After: 0.60
+INFO:root:  PSNR Before: 28.56, After: 21.14
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0036.png
+INFO:root:  SNR Before: 0.67, After: 0.37
+INFO:root:  PSNR Before: 13.28, After: 14.80
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0268.png
+INFO:root:  SNR Before: 12.33, After: 3.97
+INFO:root:  PSNR Before: 16.88, After: 20.46
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0172.png
+INFO:root:  SNR Before: -0.10, After: -0.55
+INFO:root:  PSNR Before: 5.79, After: 7.41
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0249.png
+INFO:root:  SNR Before: 12.35, After: 1.23
+INFO:root:  PSNR Before: 17.56, After: 20.82
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0719.png
+INFO:root:  SNR Before: 0.29, After: -0.17
+INFO:root:  PSNR Before: 6.92, After: 8.57
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0272.png
+INFO:root:  SNR Before: 12.34, After: 0.70
+INFO:root:  PSNR Before: 17.43, After: 19.55
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0402.png
+INFO:root:  SNR Before: 0.47, After: 0.24
+INFO:root:  PSNR Before: 8.27, After: 9.79
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0398.png
+INFO:root:  SNR Before: 2.40, After: 0.61
+INFO:root:  PSNR Before: 27.76, After: 22.58
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0429.png
+INFO:root:  SNR Before: 0.40, After: -0.09
+INFO:root:  PSNR Before: 7.75, After: 9.53
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0078.png
+INFO:root:  SNR Before: 12.36, After: 1.55
+INFO:root:  PSNR Before: 17.44, After: 20.52
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0245.png
+INFO:root:  SNR Before: 0.26, After: -0.21
+INFO:root:  PSNR Before: 7.87, After: 9.44
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0004.png
+INFO:root:  SNR Before: 0.42, After: -0.07
+INFO:root:  PSNR Before: 9.28, After: 11.05
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0175.png
+INFO:root:  SNR Before: 12.29, After: 1.46
+INFO:root:  PSNR Before: 17.45, After: 20.09
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0067.png
+INFO:root:  SNR Before: 3.61, After: 1.49
+INFO:root:  PSNR Before: 28.44, After: 20.34
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0345.png
+INFO:root:  SNR Before: 12.34, After: 1.19
+INFO:root:  PSNR Before: 17.57, After: 20.59
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0339.png
+INFO:root:  SNR Before: 3.29, After: 2.12
+INFO:root:  PSNR Before: 28.83, After: 27.68
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0650.png
+INFO:root:  SNR Before: -2.07, After: -2.68
+INFO:root:  PSNR Before: 4.72, After: 6.36
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0465.png
+INFO:root:  SNR Before: 2.91, After: -0.08
+INFO:root:  PSNR Before: 28.71, After: 22.15
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0035.png
+INFO:root:  SNR Before: 0.37, After: -0.19
+INFO:root:  PSNR Before: 7.70, After: 9.38
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0414.png
+INFO:root:  SNR Before: 12.36, After: 1.31
+INFO:root:  PSNR Before: 17.04, After: 20.33
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0683.png
+INFO:root:  SNR Before: 12.34, After: 1.26
+INFO:root:  PSNR Before: 17.35, After: 20.16
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0244.png
+INFO:root:  SNR Before: 0.48, After: -0.01
+INFO:root:  PSNR Before: 9.74, After: 11.28
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0317.png
+INFO:root:  SNR Before: 0.41, After: 0.13
+INFO:root:  PSNR Before: 7.96, After: 9.43
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0489.png
+INFO:root:  SNR Before: 0.48, After: 0.11
+INFO:root:  PSNR Before: 6.83, After: 8.52
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0472.png
+INFO:root:  SNR Before: 0.52, After: 0.22
+INFO:root:  PSNR Before: 5.34, After: 7.09
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0115.png
+INFO:root:  SNR Before: 12.29, After: -0.84
+INFO:root:  PSNR Before: 15.99, After: 18.90
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0080.png
+INFO:root:  SNR Before: 1.90, After: 1.06
+INFO:root:  PSNR Before: 26.16, After: 22.06
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0530.png
+INFO:root:  SNR Before: 0.45, After: 0.04
+INFO:root:  PSNR Before: 7.80, After: 9.55
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0656.png
+INFO:root:  SNR Before: 0.43, After: -0.06
+INFO:root:  PSNR Before: 6.49, After: 8.20
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0198.png
+INFO:root:  SNR Before: 12.28, After: 2.06
+INFO:root:  PSNR Before: 16.55, After: 19.71
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0629.png
+INFO:root:  SNR Before: 4.91, After: 0.68
+INFO:root:  PSNR Before: 32.07, After: 23.09
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0073.png
+INFO:root:  SNR Before: 12.34, After: 0.33
+INFO:root:  PSNR Before: 17.18, After: 19.15
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0773.png
+INFO:root:  SNR Before: 12.35, After: 3.96
+INFO:root:  PSNR Before: 17.02, After: 21.06
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0361.png
+INFO:root:  SNR Before: 3.17, After: 1.51
+INFO:root:  PSNR Before: 28.17, After: 23.53
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0205.png
+INFO:root:  SNR Before: 0.36, After: -0.05
+INFO:root:  PSNR Before: 7.76, After: 9.37
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0417.png
+INFO:root:  SNR Before: 12.35, After: 1.63
+INFO:root:  PSNR Before: 17.30, After: 20.19
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0518.png
+INFO:root:  SNR Before: 12.30, After: 0.61
+INFO:root:  PSNR Before: 16.86, After: 19.32
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0296.png
+INFO:root:  SNR Before: 0.47, After: -0.02
+INFO:root:  PSNR Before: 7.42, After: 9.11
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0118.png
+INFO:root:  SNR Before: 3.87, After: 2.29
+INFO:root:  PSNR Before: 29.65, After: 26.53
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0743.png
+INFO:root:  SNR Before: 2.18, After: 1.31
+INFO:root:  PSNR Before: 26.97, After: 25.49
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0258.png
+INFO:root:  SNR Before: 0.53, After: 0.15
+INFO:root:  PSNR Before: 5.78, After: 7.50
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0298.png
+INFO:root:  SNR Before: 12.35, After: 0.72
+INFO:root:  PSNR Before: 17.60, After: 20.68
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0667.png
+INFO:root:  SNR Before: 2.65, After: 1.66
+INFO:root:  PSNR Before: 27.21, After: 24.20
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0574.png
+INFO:root:  SNR Before: 12.35, After: 1.42
+INFO:root:  PSNR Before: 17.58, After: 20.14
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0304.png
+INFO:root:  SNR Before: 0.01, After: -0.45
+INFO:root:  PSNR Before: 5.91, After: 7.61
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0635.png
+INFO:root:  SNR Before: 2.36, After: 3.62
+INFO:root:  PSNR Before: 26.61, After: 27.55
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0510.png
+INFO:root:  SNR Before: 12.35, After: 1.02
+INFO:root:  PSNR Before: 17.27, After: 19.57
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0605.png
+INFO:root:  SNR Before: 0.29, After: 0.02
+INFO:root:  PSNR Before: 9.16, After: 10.77
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0246.png
+INFO:root:  SNR Before: 12.35, After: 0.48
+INFO:root:  PSNR Before: 16.85, After: 19.01
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0794.png
+INFO:root:  SNR Before: 3.94, After: 1.40
+INFO:root:  PSNR Before: 29.88, After: 23.40
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0192.png
+INFO:root:  SNR Before: 12.32, After: 1.96
+INFO:root:  PSNR Before: 17.06, After: 20.18
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0427.png
+INFO:root:  SNR Before: 12.33, After: 1.38
+INFO:root:  PSNR Before: 16.98, After: 20.06
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0042.png
+INFO:root:  SNR Before: 12.35, After: 2.99
+INFO:root:  PSNR Before: 17.28, After: 21.00
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0437.png
+INFO:root:  SNR Before: 0.35, After: -0.18
+INFO:root:  PSNR Before: 7.87, After: 9.61
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0346.png
+INFO:root:  SNR Before: 2.67, After: 3.83
+INFO:root:  PSNR Before: 26.93, After: 26.37
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0503.png
+INFO:root:  SNR Before: 3.50, After: 3.43
+INFO:root:  PSNR Before: 29.14, After: 28.07
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0416.png
+INFO:root:  SNR Before: 12.35, After: 2.49
+INFO:root:  PSNR Before: 17.85, After: 22.79
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0014.png
+INFO:root:  SNR Before: 12.34, After: 3.03
+INFO:root:  PSNR Before: 17.70, After: 22.70
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0739.png
+INFO:root:  SNR Before: 12.33, After: 1.07
+INFO:root:  PSNR Before: 17.16, After: 19.50
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0278.png
+INFO:root:  SNR Before: 0.06, After: -0.43
+INFO:root:  PSNR Before: 8.29, After: 9.94
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0753.png
+INFO:root:  SNR Before: 2.46, After: 0.83
+INFO:root:  PSNR Before: 27.33, After: 23.00
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0419.png
+INFO:root:  SNR Before: 12.33, After: 1.35
+INFO:root:  PSNR Before: 16.93, After: 19.56
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0765.png
+INFO:root:  SNR Before: 2.87, After: 1.09
+INFO:root:  PSNR Before: 28.19, After: 22.26
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0137.png
+INFO:root:  SNR Before: 4.34, After: 3.98
+INFO:root:  PSNR Before: 29.80, After: 28.11
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0184.png
+INFO:root:  SNR Before: 0.43, After: -0.11
+INFO:root:  PSNR Before: 8.47, After: 10.07
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0685.png
+INFO:root:  SNR Before: 0.11, After: -0.29
+INFO:root:  PSNR Before: 6.26, After: 7.82
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0057.png
+INFO:root:  SNR Before: 12.34, After: 1.99
+INFO:root:  PSNR Before: 17.61, After: 21.65
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0554.png
+INFO:root:  SNR Before: 12.35, After: 1.32
+INFO:root:  PSNR Before: 17.30, After: 20.18
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0183.png
+INFO:root:  SNR Before: 12.32, After: 0.92
+INFO:root:  PSNR Before: 16.91, After: 19.06
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0095.png
+INFO:root:  SNR Before: 3.12, After: 3.97
+INFO:root:  PSNR Before: 27.60, After: 28.57
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0659.png
+INFO:root:  SNR Before: 0.27, After: -0.18
+INFO:root:  PSNR Before: 6.83, After: 8.44
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0159.png
+INFO:root:  SNR Before: 2.25, After: 2.42
+INFO:root:  PSNR Before: 26.15, After: 25.05
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0358.png
+INFO:root:  SNR Before: 0.48, After: 0.20
+INFO:root:  PSNR Before: 6.75, After: 8.42
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0101.png
+INFO:root:  SNR Before: 3.69, After: 1.24
+INFO:root:  PSNR Before: 33.05, After: 26.21
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0252.png
+INFO:root:  SNR Before: 0.16, After: -0.29
+INFO:root:  PSNR Before: 5.17, After: 6.83
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0410.png
+INFO:root:  SNR Before: 2.85, After: 1.16
+INFO:root:  PSNR Before: 27.78, After: 23.01
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0053.png
+INFO:root:  SNR Before: 12.32, After: 1.67
+INFO:root:  PSNR Before: 17.16, After: 19.93
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0757.png
+INFO:root:  SNR Before: 3.82, After: 0.51
+INFO:root:  PSNR Before: 30.29, After: 22.92
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0156.png
+INFO:root:  SNR Before: 0.28, After: -0.28
+INFO:root:  PSNR Before: 7.61, After: 9.37
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0306.png
+INFO:root:  SNR Before: 12.35, After: 1.01
+INFO:root:  PSNR Before: 17.06, After: 19.51
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0406.png
+INFO:root:  SNR Before: 0.46, After: 0.00
+INFO:root:  PSNR Before: 8.35, After: 9.98
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0048.png
+INFO:root:  SNR Before: -0.92, After: -1.45
+INFO:root:  PSNR Before: 6.01, After: 7.54
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0723.png
+INFO:root:  SNR Before: 12.33, After: 1.17
+INFO:root:  PSNR Before: 16.86, After: 19.68
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0297.png
+INFO:root:  SNR Before: 0.37, After: -0.09
+INFO:root:  PSNR Before: 7.92, After: 9.48
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0267.png
+INFO:root:  SNR Before: 12.34, After: 0.23
+INFO:root:  PSNR Before: 17.43, After: 20.10
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0242.png
+INFO:root:  SNR Before: 0.44, After: 0.00
+INFO:root:  PSNR Before: 7.70, After: 9.37
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0441.png
+INFO:root:  SNR Before: 3.07, After: 3.83
+INFO:root:  PSNR Before: 28.61, After: 28.01
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0593.png
+INFO:root:  SNR Before: 12.35, After: 0.37
+INFO:root:  PSNR Before: 16.88, After: 18.72
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0633.png
+INFO:root:  SNR Before: 4.13, After: 0.86
+INFO:root:  PSNR Before: 30.29, After: 27.43
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0082.png
+INFO:root:  SNR Before: 0.37, After: -0.12
+INFO:root:  PSNR Before: 7.26, After: 8.99
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0065.png
+INFO:root:  SNR Before: 0.59, After: 0.24
+INFO:root:  PSNR Before: 5.06, After: 6.78
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0219.png
+INFO:root:  SNR Before: 3.16, After: 3.83
+INFO:root:  PSNR Before: 28.07, After: 29.29
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0514.png
+INFO:root:  SNR Before: 12.36, After: 2.91
+INFO:root:  PSNR Before: 17.17, After: 20.90
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0425.png
+INFO:root:  SNR Before: 12.38, After: 1.97
+INFO:root:  PSNR Before: 17.47, After: 21.76
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0734.png
+INFO:root:  SNR Before: 0.21, After: -0.25
+INFO:root:  PSNR Before: 6.18, After: 7.85
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0772.png
+INFO:root:  SNR Before: 12.35, After: 0.40
+INFO:root:  PSNR Before: 17.30, After: 18.91
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0597.png
+INFO:root:  SNR Before: 12.38, After: 2.61
+INFO:root:  PSNR Before: 16.89, After: 20.68
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0411.png
+INFO:root:  SNR Before: 12.34, After: 1.32
+INFO:root:  PSNR Before: 17.36, After: 20.21
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0098.png
+INFO:root:  SNR Before: 12.33, After: 1.38
+INFO:root:  PSNR Before: 17.28, After: 20.35
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0390.png
+INFO:root:  SNR Before: 0.30, After: 0.02
+INFO:root:  PSNR Before: 6.84, After: 8.46
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0546.png
+INFO:root:  SNR Before: 12.31, After: 2.66
+INFO:root:  PSNR Before: 16.47, After: 20.03
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0621.png
+INFO:root:  SNR Before: 2.42, After: 1.74
+INFO:root:  PSNR Before: 27.49, After: 25.96
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0572.png
+INFO:root:  SNR Before: 2.86, After: 0.94
+INFO:root:  PSNR Before: 28.06, After: 22.96
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0450.png
+INFO:root:  SNR Before: 0.50, After: 0.08
+INFO:root:  PSNR Before: 7.26, After: 8.74
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0643.png
+INFO:root:  SNR Before: 12.34, After: 3.63
+INFO:root:  PSNR Before: 16.88, After: 20.43
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0592.png
+INFO:root:  SNR Before: 0.39, After: -0.12
+INFO:root:  PSNR Before: 8.51, After: 10.21
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0463.png
+INFO:root:  SNR Before: 3.14, After: 1.32
+INFO:root:  PSNR Before: 28.71, After: 25.24
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0430.png
+INFO:root:  SNR Before: 0.50, After: 0.11
+INFO:root:  PSNR Before: 6.28, After: 8.03
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0180.png
+INFO:root:  SNR Before: 2.57, After: 5.27
+INFO:root:  PSNR Before: 26.58, After: 29.57
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0129.png
+INFO:root:  SNR Before: 12.34, After: 1.07
+INFO:root:  PSNR Before: 17.48, After: 19.81
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0068.png
+INFO:root:  SNR Before: 2.21, After: 0.33
+INFO:root:  PSNR Before: 26.67, After: 23.52
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0325.png
+INFO:root:  SNR Before: 12.35, After: 1.20
+INFO:root:  PSNR Before: 17.28, After: 20.10
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0583.png
+INFO:root:  SNR Before: 3.66, After: 1.70
+INFO:root:  PSNR Before: 30.12, After: 25.96
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0661.png
+INFO:root:  SNR Before: -2.50, After: -3.18
+INFO:root:  PSNR Before: 5.03, After: 6.70
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0445.png
+INFO:root:  SNR Before: 0.41, After: -0.01
+INFO:root:  PSNR Before: 6.07, After: 7.82
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0436.png
+INFO:root:  SNR Before: 12.39, After: 4.75
+INFO:root:  PSNR Before: 17.39, After: 21.82
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0114.png
+INFO:root:  SNR Before: 0.48, After: 0.05
+INFO:root:  PSNR Before: 9.17, After: 10.78
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0620.png
+INFO:root:  SNR Before: 0.11, After: -0.31
+INFO:root:  PSNR Before: 6.54, After: 8.17
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0239.png
+INFO:root:  SNR Before: 12.31, After: 3.62
+INFO:root:  PSNR Before: 16.77, After: 20.78
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0516.png
+INFO:root:  SNR Before: 3.91, After: 1.26
+INFO:root:  PSNR Before: 29.85, After: 22.89
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0286.png
+INFO:root:  SNR Before: 0.47, After: 0.09
+INFO:root:  PSNR Before: 6.38, After: 8.11
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0021.png
+INFO:root:  SNR Before: 12.35, After: 1.10
+INFO:root:  PSNR Before: 17.28, After: 19.67
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0512.png
+INFO:root:  SNR Before: 12.35, After: 1.79
+INFO:root:  PSNR Before: 17.35, After: 20.24
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0141.png
+INFO:root:  SNR Before: 3.83, After: 3.91
+INFO:root:  PSNR Before: 29.76, After: 26.98
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0079.png
+INFO:root:  SNR Before: 12.33, After: 1.90
+INFO:root:  PSNR Before: 17.19, After: 20.07
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0533.png
+INFO:root:  SNR Before: 0.60, After: 0.08
+INFO:root:  PSNR Before: 12.17, After: 13.68
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0637.png
+INFO:root:  SNR Before: 0.48, After: 0.06
+INFO:root:  PSNR Before: 5.54, After: 7.23
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0121.png
+INFO:root:  SNR Before: 2.16, After: 1.43
+INFO:root:  PSNR Before: 26.54, After: 24.96
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0160.png
+INFO:root:  SNR Before: 12.34, After: 0.89
+INFO:root:  PSNR Before: 17.24, After: 19.50
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0789.png
+INFO:root:  SNR Before: 0.49, After: -0.16
+INFO:root:  PSNR Before: 9.07, After: 10.75
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0106.png
+INFO:root:  SNR Before: 2.13, After: 1.68
+INFO:root:  PSNR Before: 27.10, After: 26.56
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0204.png
+INFO:root:  SNR Before: 2.48, After: 1.98
+INFO:root:  PSNR Before: 27.31, After: 27.70
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0066.png
+INFO:root:  SNR Before: 2.92, After: 2.39
+INFO:root:  PSNR Before: 28.26, After: 26.69
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0557.png
+INFO:root:  SNR Before: 12.39, After: 3.48
+INFO:root:  PSNR Before: 17.13, After: 20.40
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0381.png
+INFO:root:  SNR Before: 12.30, After: 2.03
+INFO:root:  PSNR Before: 16.85, After: 20.11
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0240.png
+INFO:root:  SNR Before: 12.34, After: 1.52
+INFO:root:  PSNR Before: 17.02, After: 19.69
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0348.png
+INFO:root:  SNR Before: 12.35, After: -0.05
+INFO:root:  PSNR Before: 16.85, After: 18.62
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0212.png
+INFO:root:  SNR Before: 4.96, After: 1.85
+INFO:root:  PSNR Before: 30.80, After: 22.46
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0312.png
+INFO:root:  SNR Before: 0.33, After: 0.21
+INFO:root:  PSNR Before: 7.84, After: 9.29
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0017.png
+INFO:root:  SNR Before: 0.27, After: -0.30
+INFO:root:  PSNR Before: 7.76, After: 9.49
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0375.png
+INFO:root:  SNR Before: 0.32, After: 0.10
+INFO:root:  PSNR Before: 7.83, After: 9.32
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0452.png
+INFO:root:  SNR Before: 12.36, After: 3.34
+INFO:root:  PSNR Before: 16.64, After: 20.11
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0513.png
+INFO:root:  SNR Before: 12.23, After: 0.76
+INFO:root:  PSNR Before: 16.38, After: 19.93
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0535.png
+INFO:root:  SNR Before: 0.40, After: -0.02
+INFO:root:  PSNR Before: 8.69, After: 10.16
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0284.png
+INFO:root:  SNR Before: 3.91, After: 2.61
+INFO:root:  PSNR Before: 29.49, After: 27.45
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0603.png
+INFO:root:  SNR Before: 0.03, After: -0.51
+INFO:root:  PSNR Before: 6.33, After: 8.00
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0196.png
+INFO:root:  SNR Before: 12.28, After: 0.60
+INFO:root:  PSNR Before: 16.70, After: 19.34
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0687.png
+INFO:root:  SNR Before: 12.34, After: -0.47
+INFO:root:  PSNR Before: 17.05, After: 17.94
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0399.png
+INFO:root:  SNR Before: 12.42, After: 1.60
+INFO:root:  PSNR Before: 17.11, After: 20.03
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0443.png
+INFO:root:  SNR Before: 0.56, After: 0.35
+INFO:root:  PSNR Before: 7.88, After: 9.56
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0182.png
+INFO:root:  SNR Before: 12.34, After: 1.59
+INFO:root:  PSNR Before: 17.28, After: 20.72
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0019.png
+INFO:root:  SNR Before: 12.31, After: 1.68
+INFO:root:  PSNR Before: 17.39, After: 20.78
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0559.png
+INFO:root:  SNR Before: 2.60, After: 0.65
+INFO:root:  PSNR Before: 27.67, After: 22.16
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0578.png
+INFO:root:  SNR Before: 0.71, After: 0.44
+INFO:root:  PSNR Before: 11.37, After: 13.05
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0362.png
+INFO:root:  SNR Before: 12.34, After: 1.44
+INFO:root:  PSNR Before: 16.63, After: 19.29
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0418.png
+INFO:root:  SNR Before: 0.47, After: 0.11
+INFO:root:  PSNR Before: 6.35, After: 8.06
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0561.png
+INFO:root:  SNR Before: 12.33, After: 1.98
+INFO:root:  PSNR Before: 16.48, After: 18.60
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0397.png
+INFO:root:  SNR Before: 2.55, After: 0.90
+INFO:root:  PSNR Before: 27.60, After: 22.72
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0356.png
+INFO:root:  SNR Before: 2.52, After: 1.72
+INFO:root:  PSNR Before: 27.38, After: 23.32
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0255.png
+INFO:root:  SNR Before: 2.30, After: 2.48
+INFO:root:  PSNR Before: 26.38, After: 27.52
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0479.png
+INFO:root:  SNR Before: 12.30, After: 1.26
+INFO:root:  PSNR Before: 17.05, After: 18.78
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0176.png
+INFO:root:  SNR Before: -3.02, After: -3.68
+INFO:root:  PSNR Before: 4.70, After: 6.34
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0494.png
+INFO:root:  SNR Before: -0.02, After: -0.42
+INFO:root:  PSNR Before: 5.68, After: 7.36
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0759.png
+INFO:root:  SNR Before: 2.63, After: 1.89
+INFO:root:  PSNR Before: 27.36, After: 24.73
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0075.png
+INFO:root:  SNR Before: 12.36, After: 1.17
+INFO:root:  PSNR Before: 17.19, After: 19.93
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0283.png
+INFO:root:  SNR Before: 3.45, After: 1.86
+INFO:root:  PSNR Before: 28.52, After: 25.35
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0439.png
+INFO:root:  SNR Before: 3.06, After: 1.58
+INFO:root:  PSNR Before: 28.54, After: 24.18
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0539.png
+INFO:root:  SNR Before: 12.35, After: 2.42
+INFO:root:  PSNR Before: 17.18, After: 20.83
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0343.png
+INFO:root:  SNR Before: 0.50, After: 0.17
+INFO:root:  PSNR Before: 6.54, After: 8.28
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0600.png
+INFO:root:  SNR Before: 2.63, After: 1.36
+INFO:root:  PSNR Before: 27.36, After: 22.95
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0570.png
+INFO:root:  SNR Before: 12.34, After: 2.58
+INFO:root:  PSNR Before: 17.63, After: 22.57
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0108.png
+INFO:root:  SNR Before: 3.62, After: 1.66
+INFO:root:  PSNR Before: 29.19, After: 25.47
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0528.png
+INFO:root:  SNR Before: 12.34, After: 0.42
+INFO:root:  PSNR Before: 17.06, After: 19.09
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0102.png
+INFO:root:  SNR Before: 2.97, After: 0.88
+INFO:root:  PSNR Before: 28.22, After: 21.91
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0388.png
+INFO:root:  SNR Before: 2.81, After: 0.64
+INFO:root:  PSNR Before: 28.08, After: 22.06
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0373.png
+INFO:root:  SNR Before: 0.42, After: -0.12
+INFO:root:  PSNR Before: 10.13, After: 11.48
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0174.png
+INFO:root:  SNR Before: 12.34, After: 0.83
+INFO:root:  PSNR Before: 17.62, After: 19.53
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0349.png
+INFO:root:  SNR Before: 12.33, After: -0.05
+INFO:root:  PSNR Before: 17.18, After: 18.51
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0072.png
+INFO:root:  SNR Before: 0.23, After: -0.29
+INFO:root:  PSNR Before: 6.86, After: 8.57
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0005.png
+INFO:root:  SNR Before: 0.45, After: -0.16
+INFO:root:  PSNR Before: 9.72, After: 11.42
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0428.png
+INFO:root:  SNR Before: 0.50, After: 0.12
+INFO:root:  PSNR Before: 6.11, After: 7.86
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0027.png
+INFO:root:  SNR Before: 12.35, After: 1.98
+INFO:root:  PSNR Before: 17.63, After: 21.72
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0440.png
+INFO:root:  SNR Before: 0.47, After: -0.01
+INFO:root:  PSNR Before: 7.35, After: 8.97
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0686.png
+INFO:root:  SNR Before: 0.24, After: -0.31
+INFO:root:  PSNR Before: 6.92, After: 8.55
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0704.png
+INFO:root:  SNR Before: 3.95, After: 2.19
+INFO:root:  PSNR Before: 30.19, After: 25.10
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0100.png
+INFO:root:  SNR Before: 3.25, After: 4.24
+INFO:root:  PSNR Before: 28.57, After: 29.67
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0320.png
+INFO:root:  SNR Before: 0.23, After: -0.21
+INFO:root:  PSNR Before: 7.88, After: 9.40
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0644.png
+INFO:root:  SNR Before: 12.35, After: 1.44
+INFO:root:  PSNR Before: 17.07, After: 20.17
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0332.png
+INFO:root:  SNR Before: 0.14, After: -0.31
+INFO:root:  PSNR Before: 5.72, After: 7.35
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0031.png
+INFO:root:  SNR Before: 12.34, After: 1.17
+INFO:root:  PSNR Before: 17.23, After: 19.97
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0291.png
+INFO:root:  SNR Before: 12.35, After: 0.93
+INFO:root:  PSNR Before: 17.28, After: 19.07
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0123.png
+INFO:root:  SNR Before: 4.32, After: 1.89
+INFO:root:  PSNR Before: 30.75, After: 27.20
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0774.png
+INFO:root:  SNR Before: 12.34, After: 0.97
+INFO:root:  PSNR Before: 16.99, After: 19.42
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0448.png
+INFO:root:  SNR Before: 2.11, After: 2.11
+INFO:root:  PSNR Before: 26.41, After: 27.45
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0193.png
+INFO:root:  SNR Before: 3.13, After: 2.40
+INFO:root:  PSNR Before: 26.77, After: 24.21
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0750.png
+INFO:root:  SNR Before: 0.41, After: -0.06
+INFO:root:  PSNR Before: 8.51, After: 10.10
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0619.png
+INFO:root:  SNR Before: 0.44, After: -0.02
+INFO:root:  PSNR Before: 9.55, After: 11.14
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0588.png
+INFO:root:  SNR Before: 0.39, After: -0.03
+INFO:root:  PSNR Before: 6.82, After: 8.46
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0083.png
+INFO:root:  SNR Before: 0.40, After: 0.06
+INFO:root:  PSNR Before: 6.84, After: 8.64
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0642.png
+INFO:root:  SNR Before: 0.33, After: -0.23
+INFO:root:  PSNR Before: 8.49, After: 10.27
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0628.png
+INFO:root:  SNR Before: 12.34, After: 0.87
+INFO:root:  PSNR Before: 17.71, After: 20.30
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0117.png
+INFO:root:  SNR Before: 0.41, After: -0.04
+INFO:root:  PSNR Before: 9.81, After: 11.35
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0243.png
+INFO:root:  SNR Before: 3.49, After: 1.18
+INFO:root:  PSNR Before: 28.86, After: 22.51
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0113.png
+INFO:root:  SNR Before: 12.34, After: 1.63
+INFO:root:  PSNR Before: 16.88, After: 20.26
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0094.png
+INFO:root:  SNR Before: 12.33, After: 0.40
+INFO:root:  PSNR Before: 16.82, After: 18.94
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0624.png
+INFO:root:  SNR Before: 12.34, After: 0.40
+INFO:root:  PSNR Before: 17.36, After: 19.17
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0237.png
+INFO:root:  SNR Before: 2.82, After: 1.80
+INFO:root:  PSNR Before: 27.60, After: 22.87
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0311.png
+INFO:root:  SNR Before: 2.59, After: 1.56
+INFO:root:  PSNR Before: 27.07, After: 22.41
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0195.png
+INFO:root:  SNR Before: 0.34, After: -0.03
+INFO:root:  PSNR Before: 5.53, After: 7.23
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0001.png
+INFO:root:  SNR Before: 0.33, After: -0.08
+INFO:root:  PSNR Before: 5.63, After: 7.35
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0506.png
+INFO:root:  SNR Before: 3.38, After: 4.29
+INFO:root:  PSNR Before: 27.90, After: 28.01
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0116.png
+INFO:root:  SNR Before: 2.61, After: 1.96
+INFO:root:  PSNR Before: 27.23, After: 24.52
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0127.png
+INFO:root:  SNR Before: 0.53, After: 0.09
+INFO:root:  PSNR Before: 8.25, After: 9.97
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0663.png
+INFO:root:  SNR Before: 0.32, After: -0.25
+INFO:root:  PSNR Before: 9.35, After: 11.00
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0640.png
+INFO:root:  SNR Before: 12.34, After: 2.07
+INFO:root:  PSNR Before: 17.28, After: 21.05
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0476.png
+INFO:root:  SNR Before: 12.33, After: 1.15
+INFO:root:  PSNR Before: 17.14, After: 19.24
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0046.png
+INFO:root:  SNR Before: 12.35, After: 2.14
+INFO:root:  PSNR Before: 17.75, After: 22.42
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0727.png
+INFO:root:  SNR Before: 0.29, After: -0.23
+INFO:root:  PSNR Before: 6.50, After: 8.17
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0692.png
+INFO:root:  SNR Before: 0.53, After: -0.14
+INFO:root:  PSNR Before: 10.37, After: 12.03
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0453.png
+INFO:root:  SNR Before: 3.67, After: 1.79
+INFO:root:  PSNR Before: 29.68, After: 25.54
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0070.png
+INFO:root:  SNR Before: 12.35, After: 0.89
+INFO:root:  PSNR Before: 17.18, After: 18.91
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0524.png
+INFO:root:  SNR Before: 0.45, After: 0.08
+INFO:root:  PSNR Before: 6.54, After: 8.23
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0405.png
+INFO:root:  SNR Before: 3.41, After: 2.01
+INFO:root:  PSNR Before: 28.65, After: 25.48
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0003.png
+INFO:root:  SNR Before: 0.43, After: -0.18
+INFO:root:  PSNR Before: 9.36, After: 10.80
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0567.png
+INFO:root:  SNR Before: 3.15, After: 4.09
+INFO:root:  PSNR Before: 27.91, After: 29.37
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0206.png
+INFO:root:  SNR Before: 2.47, After: 2.27
+INFO:root:  PSNR Before: 26.96, After: 25.17
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0584.png
+INFO:root:  SNR Before: 12.32, After: 1.03
+INFO:root:  PSNR Before: 17.27, After: 19.97
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0189.png
+INFO:root:  SNR Before: 0.32, After: -0.11
+INFO:root:  PSNR Before: 7.85, After: 9.19
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0293.png
+INFO:root:  SNR Before: 2.50, After: 3.43
+INFO:root:  PSNR Before: 26.57, After: 26.80
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0674.png
+INFO:root:  SNR Before: 12.33, After: 2.16
+INFO:root:  PSNR Before: 17.18, After: 20.88
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0181.png
+INFO:root:  SNR Before: 2.37, After: 0.82
+INFO:root:  PSNR Before: 27.30, After: 22.20
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0477.png
+INFO:root:  SNR Before: 3.30, After: 3.71
+INFO:root:  PSNR Before: 27.97, After: 27.69
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0259.png
+INFO:root:  SNR Before: 12.34, After: 3.02
+INFO:root:  PSNR Before: 16.94, After: 20.66
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0552.png
+INFO:root:  SNR Before: 1.93, After: 1.48
+INFO:root:  PSNR Before: 26.18, After: 23.51
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0097.png
+INFO:root:  SNR Before: 0.47, After: -0.01
+INFO:root:  PSNR Before: 5.68, After: 7.33
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0638.png
+INFO:root:  SNR Before: 3.43, After: 3.59
+INFO:root:  PSNR Before: 28.15, After: 25.22
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0384.png
+INFO:root:  SNR Before: 0.41, After: -0.45
+INFO:root:  PSNR Before: 7.21, After: 8.78
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0228.png
+INFO:root:  SNR Before: 0.44, After: -0.06
+INFO:root:  PSNR Before: 6.79, After: 8.50
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0034.png
+INFO:root:  SNR Before: 3.22, After: 1.57
+INFO:root:  PSNR Before: 28.34, After: 23.64
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0165.png
+INFO:root:  SNR Before: 12.32, After: 2.28
+INFO:root:  PSNR Before: 16.93, After: 20.89
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0501.png
+INFO:root:  SNR Before: 12.36, After: 1.67
+INFO:root:  PSNR Before: 17.24, After: 20.14
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0369.png
+INFO:root:  SNR Before: 1.99, After: 2.48
+INFO:root:  PSNR Before: 25.46, After: 26.44
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0595.png
+INFO:root:  SNR Before: 2.66, After: 1.16
+INFO:root:  PSNR Before: 27.68, After: 23.62
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0689.png
+INFO:root:  SNR Before: 3.10, After: -0.17
+INFO:root:  PSNR Before: 30.18, After: 22.37
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0760.png
+INFO:root:  SNR Before: 3.48, After: 2.81
+INFO:root:  PSNR Before: 28.70, After: 25.98
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0449.png
+INFO:root:  SNR Before: -0.17, After: -0.79
+INFO:root:  PSNR Before: 7.07, After: 8.62
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0214.png
+INFO:root:  SNR Before: 12.35, After: 1.73
+INFO:root:  PSNR Before: 16.77, After: 18.96
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0338.png
+INFO:root:  SNR Before: 2.01, After: -0.47
+INFO:root:  PSNR Before: 27.57, After: 21.85
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0138.png
+INFO:root:  SNR Before: 12.41, After: 5.92
+INFO:root:  PSNR Before: 16.21, After: 20.09
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0030.png
+INFO:root:  SNR Before: 2.70, After: 1.99
+INFO:root:  PSNR Before: 27.26, After: 23.85
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0744.png
+INFO:root:  SNR Before: 0.17, After: -0.18
+INFO:root:  PSNR Before: 5.46, After: 7.12
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0314.png
+INFO:root:  SNR Before: 3.93, After: 1.53
+INFO:root:  PSNR Before: 29.52, After: 24.52
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0496.png
+INFO:root:  SNR Before: 3.66, After: 2.99
+INFO:root:  PSNR Before: 30.01, After: 28.36
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0371.png
+INFO:root:  SNR Before: 2.67, After: 1.97
+INFO:root:  PSNR Before: 27.39, After: 23.58
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0231.png
+INFO:root:  SNR Before: 12.30, After: 1.23
+INFO:root:  PSNR Before: 16.56, After: 19.44
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0354.png
+INFO:root:  SNR Before: 12.34, After: 2.72
+INFO:root:  PSNR Before: 17.28, After: 21.27
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0007.png
+INFO:root:  SNR Before: 12.34, After: 1.08
+INFO:root:  PSNR Before: 17.16, After: 19.43
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0164.png
+INFO:root:  SNR Before: 6.55, After: 4.69
+INFO:root:  PSNR Before: 32.54, After: 29.34
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0451.png
+INFO:root:  SNR Before: 12.34, After: 0.86
+INFO:root:  PSNR Before: 17.33, After: 19.96
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0752.png
+INFO:root:  SNR Before: 2.00, After: 1.57
+INFO:root:  PSNR Before: 26.38, After: 24.40
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0271.png
+INFO:root:  SNR Before: 0.39, After: -0.04
+INFO:root:  PSNR Before: 7.49, After: 9.25
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0122.png
+INFO:root:  SNR Before: 12.34, After: 3.04
+INFO:root:  PSNR Before: 16.97, After: 20.54
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0677.png
+INFO:root:  SNR Before: 3.16, After: 1.78
+INFO:root:  PSNR Before: 29.08, After: 23.70
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0486.png
+INFO:root:  SNR Before: 12.35, After: 1.49
+INFO:root:  PSNR Before: 17.08, After: 20.38
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0310.png
+INFO:root:  SNR Before: 0.26, After: -0.20
+INFO:root:  PSNR Before: 6.20, After: 7.77
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0599.png
+INFO:root:  SNR Before: 2.00, After: 5.31
+INFO:root:  PSNR Before: 26.93, After: 30.03
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0422.png
+INFO:root:  SNR Before: 12.35, After: 1.44
+INFO:root:  PSNR Before: 16.68, After: 19.38
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0145.png
+INFO:root:  SNR Before: 0.12, After: -0.19
+INFO:root:  PSNR Before: 7.97, After: 9.39
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0044.png
+INFO:root:  SNR Before: 0.43, After: -0.04
+INFO:root:  PSNR Before: 6.64, After: 8.37
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0342.png
+INFO:root:  SNR Before: 2.52, After: 1.32
+INFO:root:  PSNR Before: 27.10, After: 22.19
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0008.png
+INFO:root:  SNR Before: 12.34, After: 0.85
+INFO:root:  PSNR Before: 17.25, After: 19.74
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0049.png
+INFO:root:  SNR Before: 2.28, After: 1.12
+INFO:root:  PSNR Before: 27.20, After: 21.96
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0602.png
+INFO:root:  SNR Before: 0.07, After: -0.32
+INFO:root:  PSNR Before: 8.49, After: 9.83
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0669.png
+INFO:root:  SNR Before: 12.35, After: 1.71
+INFO:root:  PSNR Before: 17.29, After: 21.17
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0336.png
+INFO:root:  SNR Before: 2.57, After: 0.50
+INFO:root:  PSNR Before: 27.67, After: 22.00
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0509.png
+INFO:root:  SNR Before: 0.53, After: 0.19
+INFO:root:  PSNR Before: 6.85, After: 8.53
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0648.png
+INFO:root:  SNR Before: -0.43, After: -0.92
+INFO:root:  PSNR Before: 5.31, After: 6.99
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0211.png
+INFO:root:  SNR Before: 4.27, After: 1.11
+INFO:root:  PSNR Before: 30.23, After: 22.49
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0547.png
+INFO:root:  SNR Before: 0.53, After: 0.06
+INFO:root:  PSNR Before: 7.48, After: 9.18
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0218.png
+INFO:root:  SNR Before: 12.30, After: 0.05
+INFO:root:  PSNR Before: 16.53, After: 18.25
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0693.png
+INFO:root:  SNR Before: 1.93, After: 2.58
+INFO:root:  PSNR Before: 27.51, After: 26.56
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0009.png
+INFO:root:  SNR Before: 12.37, After: 1.30
+INFO:root:  PSNR Before: 17.00, After: 19.61
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0270.png
+INFO:root:  SNR Before: 3.00, After: 0.17
+INFO:root:  PSNR Before: 28.68, After: 21.09
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0200.png
+INFO:root:  SNR Before: 0.49, After: -0.01
+INFO:root:  PSNR Before: 6.63, After: 8.40
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0378.png
+INFO:root:  SNR Before: 12.35, After: 1.77
+INFO:root:  PSNR Before: 17.63, After: 21.21
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0221.png
+INFO:root:  SNR Before: 0.10, After: -0.40
+INFO:root:  PSNR Before: 6.35, After: 8.05
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0380.png
+INFO:root:  SNR Before: 12.38, After: 1.46
+INFO:root:  PSNR Before: 17.67, After: 20.96
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0032.png
+INFO:root:  SNR Before: 2.34, After: 2.13
+INFO:root:  PSNR Before: 26.83, After: 28.21
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0724.png
+INFO:root:  SNR Before: 0.29, After: -0.12
+INFO:root:  PSNR Before: 7.69, After: 9.24
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0469.png
+INFO:root:  SNR Before: 0.51, After: -0.08
+INFO:root:  PSNR Before: 10.72, After: 12.46
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0104.png
+INFO:root:  SNR Before: 12.33, After: 2.47
+INFO:root:  PSNR Before: 16.78, After: 19.65
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0404.png
+INFO:root:  SNR Before: 1.95, After: 1.37
+INFO:root:  PSNR Before: 25.67, After: 23.94
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0596.png
+INFO:root:  SNR Before: 12.34, After: 1.01
+INFO:root:  PSNR Before: 17.12, After: 19.74
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0634.png
+INFO:root:  SNR Before: 2.82, After: 0.16
+INFO:root:  PSNR Before: 28.28, After: 21.34
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0308.png
+INFO:root:  SNR Before: 0.43, After: -0.16
+INFO:root:  PSNR Before: 8.31, After: 9.96
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0766.png
+INFO:root:  SNR Before: 0.49, After: 0.07
+INFO:root:  PSNR Before: 6.14, After: 7.73
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0786.png
+INFO:root:  SNR Before: 3.49, After: 1.35
+INFO:root:  PSNR Before: 28.81, After: 22.01
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0290.png
+INFO:root:  SNR Before: 3.96, After: 1.77
+INFO:root:  PSNR Before: 29.78, After: 24.79
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0732.png
+INFO:root:  SNR Before: 3.17, After: 4.10
+INFO:root:  PSNR Before: 27.96, After: 27.11
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0737.png
+INFO:root:  SNR Before: 2.57, After: 2.11
+INFO:root:  PSNR Before: 27.31, After: 23.82
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0764.png
+INFO:root:  SNR Before: 12.32, After: 1.57
+INFO:root:  PSNR Before: 16.43, After: 19.34
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0230.png
+INFO:root:  SNR Before: 3.40, After: 6.04
+INFO:root:  PSNR Before: 28.66, After: 30.92
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0712.png
+INFO:root:  SNR Before: 12.34, After: 1.08
+INFO:root:  PSNR Before: 17.44, After: 20.04
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0746.png
+INFO:root:  SNR Before: 12.25, After: 0.83
+INFO:root:  PSNR Before: 16.43, After: 18.73
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0128.png
+INFO:root:  SNR Before: 12.34, After: 0.18
+INFO:root:  PSNR Before: 16.99, After: 19.25
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0213.png
+INFO:root:  SNR Before: 0.35, After: -0.03
+INFO:root:  PSNR Before: 6.03, After: 7.73
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0497.png
+INFO:root:  SNR Before: 0.36, After: 0.18
+INFO:root:  PSNR Before: 7.99, After: 9.76
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0357.png
+INFO:root:  SNR Before: 12.29, After: 0.73
+INFO:root:  PSNR Before: 16.76, After: 18.69
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0069.png
+INFO:root:  SNR Before: 0.27, After: -0.16
+INFO:root:  PSNR Before: 7.01, After: 8.58
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0536.png
+INFO:root:  SNR Before: 12.34, After: 1.11
+INFO:root:  PSNR Before: 17.54, After: 20.13
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0039.png
+INFO:root:  SNR Before: 12.35, After: 1.42
+INFO:root:  PSNR Before: 17.35, After: 20.24
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0111.png
+INFO:root:  SNR Before: 12.35, After: 1.11
+INFO:root:  PSNR Before: 17.21, After: 19.64
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0155.png
+INFO:root:  SNR Before: -0.12, After: -0.57
+INFO:root:  PSNR Before: 5.31, After: 7.00
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0768.png
+INFO:root:  SNR Before: 0.33, After: -0.02
+INFO:root:  PSNR Before: 4.63, After: 6.33
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0771.png
+INFO:root:  SNR Before: 3.73, After: 2.13
+INFO:root:  PSNR Before: 29.51, After: 27.03
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0254.png
+INFO:root:  SNR Before: 12.38, After: -0.83
+INFO:root:  PSNR Before: 16.66, After: 17.52
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0442.png
+INFO:root:  SNR Before: -0.57, After: -1.08
+INFO:root:  PSNR Before: 4.27, After: 5.95
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0770.png
+INFO:root:  SNR Before: 3.18, After: 1.26
+INFO:root:  PSNR Before: 28.10, After: 22.03
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0408.png
+INFO:root:  SNR Before: 3.55, After: 0.35
+INFO:root:  PSNR Before: 29.74, After: 22.52
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0109.png
+INFO:root:  SNR Before: 12.23, After: 0.50
+INFO:root:  PSNR Before: 16.25, After: 19.45
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0294.png
+INFO:root:  SNR Before: 12.35, After: 0.36
+INFO:root:  PSNR Before: 17.30, After: 19.21
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0474.png
+INFO:root:  SNR Before: 0.44, After: -0.04
+INFO:root:  PSNR Before: 7.88, After: 9.67
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0793.png
+INFO:root:  SNR Before: 12.35, After: 1.96
+INFO:root:  PSNR Before: 17.34, After: 20.67
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0125.png
+INFO:root:  SNR Before: 12.35, After: 1.29
+INFO:root:  PSNR Before: 17.16, After: 20.74
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0543.png
+INFO:root:  SNR Before: -0.24, After: -0.74
+INFO:root:  PSNR Before: 7.81, After: 9.40
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0614.png
+INFO:root:  SNR Before: 0.26, After: -0.37
+INFO:root:  PSNR Before: 8.59, After: 10.17
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0690.png
+INFO:root:  SNR Before: 2.10, After: 3.26
+INFO:root:  PSNR Before: 26.01, After: 24.97
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0785.png
+INFO:root:  SNR Before: 12.33, After: -0.83
+INFO:root:  PSNR Before: 17.21, After: 18.85
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0287.png
+INFO:root:  SNR Before: 0.35, After: -0.27
+INFO:root:  PSNR Before: 8.15, After: 9.86
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0718.png
+INFO:root:  SNR Before: 5.64, After: 5.64
+INFO:root:  PSNR Before: 31.21, After: 26.95
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0475.png
+INFO:root:  SNR Before: 2.88, After: 1.85
+INFO:root:  PSNR Before: 27.79, After: 24.82
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0261.png
+INFO:root:  SNR Before: 12.35, After: 0.73
+INFO:root:  PSNR Before: 17.68, After: 19.12
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0702.png
+INFO:root:  SNR Before: 3.00, After: 2.04
+INFO:root:  PSNR Before: 28.31, After: 24.92
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0316.png
+INFO:root:  SNR Before: 0.44, After: -0.02
+INFO:root:  PSNR Before: 8.39, After: 10.15
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0435.png
+INFO:root:  SNR Before: 0.49, After: 0.08
+INFO:root:  PSNR Before: 10.57, After: 11.98
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0015.png
+INFO:root:  SNR Before: 0.41, After: -0.04
+INFO:root:  PSNR Before: 7.16, After: 8.85
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0139.png
+INFO:root:  SNR Before: -0.35, After: -0.86
+INFO:root:  PSNR Before: 5.84, After: 7.44
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0522.png
+INFO:root:  SNR Before: 12.34, After: 2.13
+INFO:root:  PSNR Before: 17.49, After: 21.69
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0682.png
+INFO:root:  SNR Before: 2.41, After: 1.56
+INFO:root:  PSNR Before: 26.94, After: 23.20
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0250.png
+INFO:root:  SNR Before: 3.65, After: 0.72
+INFO:root:  PSNR Before: 29.35, After: 23.28
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0665.png
+INFO:root:  SNR Before: 12.35, After: 3.70
+INFO:root:  PSNR Before: 17.57, After: 22.55
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0431.png
+INFO:root:  SNR Before: 3.87, After: 1.15
+INFO:root:  PSNR Before: 29.28, After: 23.39
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0544.png
+INFO:root:  SNR Before: 0.36, After: 0.01
+INFO:root:  PSNR Before: 5.12, After: 6.84
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0571.png
+INFO:root:  SNR Before: 2.93, After: 0.62
+INFO:root:  PSNR Before: 28.26, After: 22.55
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0387.png
+INFO:root:  SNR Before: 2.19, After: 0.89
+INFO:root:  PSNR Before: 26.71, After: 22.54
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0647.png
+INFO:root:  SNR Before: 12.33, After: 2.03
+INFO:root:  PSNR Before: 17.23, After: 21.02
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0130.png
+INFO:root:  SNR Before: 0.45, After: -0.10
+INFO:root:  PSNR Before: 8.23, After: 10.01
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0324.png
+INFO:root:  SNR Before: -0.21, After: -0.64
+INFO:root:  PSNR Before: 5.81, After: 7.32
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0142.png
+INFO:root:  SNR Before: 2.45, After: 0.94
+INFO:root:  PSNR Before: 27.12, After: 21.91
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0251.png
+INFO:root:  SNR Before: 0.38, After: -0.04
+INFO:root:  PSNR Before: 5.10, After: 6.81
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0729.png
+INFO:root:  SNR Before: 0.41, After: -0.15
+INFO:root:  PSNR Before: 7.83, After: 9.51
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0225.png
+INFO:root:  SNR Before: 0.24, After: -0.16
+INFO:root:  PSNR Before: 6.41, After: 8.11
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0163.png
+INFO:root:  SNR Before: 2.27, After: 1.28
+INFO:root:  PSNR Before: 27.22, After: 22.93
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0466.png
+INFO:root:  SNR Before: 0.07, After: -0.46
+INFO:root:  PSNR Before: 7.04, After: 8.69
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0622.png
+INFO:root:  SNR Before: 0.32, After: -0.33
+INFO:root:  PSNR Before: 7.30, After: 9.03
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0541.png
+INFO:root:  SNR Before: 12.33, After: 0.03
+INFO:root:  PSNR Before: 16.69, After: 18.68
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0613.png
+INFO:root:  SNR Before: 0.33, After: -0.23
+INFO:root:  PSNR Before: 8.28, After: 10.00
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0071.png
+INFO:root:  SNR Before: 12.34, After: 1.50
+INFO:root:  PSNR Before: 17.64, After: 21.73
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0061.png
+INFO:root:  SNR Before: 12.20, After: 3.93
+INFO:root:  PSNR Before: 16.64, After: 20.05
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0580.png
+INFO:root:  SNR Before: 12.32, After: 0.64
+INFO:root:  PSNR Before: 17.52, After: 19.65
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0151.png
+INFO:root:  SNR Before: 2.19, After: 0.86
+INFO:root:  PSNR Before: 27.14, After: 22.84
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0144.png
+INFO:root:  SNR Before: 0.37, After: 0.03
+INFO:root:  PSNR Before: 6.53, After: 8.23
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0394.png
+INFO:root:  SNR Before: 0.49, After: 0.00
+INFO:root:  PSNR Before: 8.44, After: 10.15
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0389.png
+INFO:root:  SNR Before: 0.51, After: -0.06
+INFO:root:  PSNR Before: 11.28, After: 12.92
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0081.png
+INFO:root:  SNR Before: 12.34, After: 1.91
+INFO:root:  PSNR Before: 16.98, After: 20.12
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0706.png
+INFO:root:  SNR Before: 12.35, After: 1.16
+INFO:root:  PSNR Before: 17.19, After: 19.40
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0454.png
+INFO:root:  SNR Before: 2.09, After: 3.60
+INFO:root:  PSNR Before: 26.15, After: 26.92
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0473.png
+INFO:root:  SNR Before: 5.02, After: 2.26
+INFO:root:  PSNR Before: 31.91, After: 27.46
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0779.png
+INFO:root:  SNR Before: 2.91, After: 1.62
+INFO:root:  PSNR Before: 27.46, After: 23.44
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0434.png
+INFO:root:  SNR Before: 2.85, After: 1.16
+INFO:root:  PSNR Before: 28.05, After: 23.39
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0173.png
+INFO:root:  SNR Before: 2.99, After: 1.64
+INFO:root:  PSNR Before: 27.90, After: 24.08
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0226.png
+INFO:root:  SNR Before: 2.66, After: 1.09
+INFO:root:  PSNR Before: 28.04, After: 24.23
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0265.png
+INFO:root:  SNR Before: 0.45, After: 0.23
+INFO:root:  PSNR Before: 7.08, After: 8.81
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0670.png
+INFO:root:  SNR Before: 0.26, After: -0.21
+INFO:root:  PSNR Before: 5.41, After: 7.10
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0140.png
+INFO:root:  SNR Before: 12.35, After: 1.43
+INFO:root:  PSNR Before: 17.69, After: 20.88
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0153.png
+INFO:root:  SNR Before: 0.35, After: -0.08
+INFO:root:  PSNR Before: 8.91, After: 10.49
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0222.png
+INFO:root:  SNR Before: 0.43, After: 0.03
+INFO:root:  PSNR Before: 9.37, After: 10.96
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0438.png
+INFO:root:  SNR Before: 3.19, After: 1.99
+INFO:root:  PSNR Before: 28.17, After: 23.69
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0694.png
+INFO:root:  SNR Before: 0.40, After: -0.12
+INFO:root:  PSNR Before: 7.85, After: 9.61
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0169.png
+INFO:root:  SNR Before: 0.28, After: -0.21
+INFO:root:  PSNR Before: 6.88, After: 8.62
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0177.png
+INFO:root:  SNR Before: 0.21, After: -0.53
+INFO:root:  PSNR Before: 9.23, After: 10.74
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0458.png
+INFO:root:  SNR Before: 12.34, After: 1.58
+INFO:root:  PSNR Before: 17.57, After: 20.95
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0798.png
+INFO:root:  SNR Before: 0.48, After: 0.04
+INFO:root:  PSNR Before: 8.79, After: 10.30
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0740.png
+INFO:root:  SNR Before: 3.06, After: 2.54
+INFO:root:  PSNR Before: 28.33, After: 26.44
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0423.png
+INFO:root:  SNR Before: 12.34, After: 0.87
+INFO:root:  PSNR Before: 17.86, After: 21.50
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0209.png
+INFO:root:  SNR Before: 0.43, After: -0.08
+INFO:root:  PSNR Before: 9.83, After: 11.37
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0054.png
+INFO:root:  SNR Before: 0.06, After: -0.57
+INFO:root:  PSNR Before: 6.93, After: 8.55
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0691.png
+INFO:root:  SNR Before: 12.36, After: 1.12
+INFO:root:  PSNR Before: 16.70, After: 19.59
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0751.png
+INFO:root:  SNR Before: 12.35, After: 0.61
+INFO:root:  PSNR Before: 17.64, After: 20.43
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0538.png
+INFO:root:  SNR Before: 4.11, After: 6.56
+INFO:root:  PSNR Before: 29.67, After: 32.73
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0337.png
+INFO:root:  SNR Before: 12.36, After: 2.96
+INFO:root:  PSNR Before: 16.56, After: 19.93
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0302.png
+INFO:root:  SNR Before: 12.34, After: 3.06
+INFO:root:  PSNR Before: 17.17, After: 20.76
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0194.png
+INFO:root:  SNR Before: 12.38, After: 2.36
+INFO:root:  PSNR Before: 16.98, After: 21.03
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0391.png
+INFO:root:  SNR Before: 12.35, After: 3.19
+INFO:root:  PSNR Before: 17.12, After: 21.25
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0264.png
+INFO:root:  SNR Before: 12.34, After: 4.17
+INFO:root:  PSNR Before: 17.07, After: 21.03
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0534.png
+INFO:root:  SNR Before: 0.51, After: 0.01
+INFO:root:  PSNR Before: 8.66, After: 10.28
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0617.png
+INFO:root:  SNR Before: 0.51, After: 0.14
+INFO:root:  PSNR Before: 6.94, After: 8.65
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0784.png
+INFO:root:  SNR Before: 12.34, After: 0.41
+INFO:root:  PSNR Before: 16.85, After: 19.00
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0611.png
+INFO:root:  SNR Before: 2.25, After: 1.00
+INFO:root:  PSNR Before: 26.80, After: 21.97
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0631.png
+INFO:root:  SNR Before: 0.74, After: 0.19
+INFO:root:  PSNR Before: 7.20, After: 8.98
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0407.png
+INFO:root:  SNR Before: 2.57, After: 0.92
+INFO:root:  PSNR Before: 27.71, After: 23.80
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0616.png
+INFO:root:  SNR Before: 12.32, After: -0.50
+INFO:root:  PSNR Before: 16.89, After: 17.33
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0548.png
+INFO:root:  SNR Before: 0.46, After: 0.06
+INFO:root:  PSNR Before: 7.81, After: 9.53
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0152.png
+INFO:root:  SNR Before: 0.51, After: 0.10
+INFO:root:  PSNR Before: 6.41, After: 8.18
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0377.png
+INFO:root:  SNR Before: 0.44, After: -0.16
+INFO:root:  PSNR Before: 6.96, After: 8.53
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0585.png
+INFO:root:  SNR Before: 0.40, After: -0.13
+INFO:root:  PSNR Before: 7.88, After: 9.51
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0610.png
+INFO:root:  SNR Before: 12.32, After: 0.13
+INFO:root:  PSNR Before: 17.05, After: 18.33
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0062.png
+INFO:root:  SNR Before: 0.46, After: -0.18
+INFO:root:  PSNR Before: 5.76, After: 7.47
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0299.png
+INFO:root:  SNR Before: 0.53, After: 0.17
+INFO:root:  PSNR Before: 6.53, After: 8.22
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0681.png
+INFO:root:  SNR Before: 12.34, After: 2.13
+INFO:root:  PSNR Before: 17.41, After: 21.40
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0730.png
+INFO:root:  SNR Before: -0.00, After: -0.57
+INFO:root:  PSNR Before: 6.05, After: 7.64
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0303.png
+INFO:root:  SNR Before: 0.15, After: -0.39
+INFO:root:  PSNR Before: 7.42, After: 9.00
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0276.png
+INFO:root:  SNR Before: 2.78, After: 1.52
+INFO:root:  PSNR Before: 28.51, After: 26.83
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0468.png
+INFO:root:  SNR Before: 12.38, After: 2.02
+INFO:root:  PSNR Before: 16.67, After: 19.84
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0236.png
+INFO:root:  SNR Before: 0.50, After: 0.08
+INFO:root:  PSNR Before: 7.59, After: 9.25
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0215.png
+INFO:root:  SNR Before: 3.55, After: 2.77
+INFO:root:  PSNR Before: 28.74, After: 27.60
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0148.png
+INFO:root:  SNR Before: 12.38, After: 2.85
+INFO:root:  PSNR Before: 16.79, After: 20.43
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0355.png
+INFO:root:  SNR Before: 2.55, After: 1.56
+INFO:root:  PSNR Before: 27.55, After: 24.29
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0775.png
+INFO:root:  SNR Before: 1.98, After: 0.84
+INFO:root:  PSNR Before: 26.36, After: 22.02
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0769.png
+INFO:root:  SNR Before: 3.53, After: 2.04
+INFO:root:  PSNR Before: 28.95, After: 23.21
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0370.png
+INFO:root:  SNR Before: 0.40, After: 0.00
+INFO:root:  PSNR Before: 5.26, After: 6.91
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0363.png
+INFO:root:  SNR Before: 12.35, After: 1.81
+INFO:root:  PSNR Before: 17.50, After: 20.83
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0560.png
+INFO:root:  SNR Before: 2.86, After: 2.68
+INFO:root:  PSNR Before: 27.46, After: 27.84
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0484.png
+INFO:root:  SNR Before: 2.71, After: 2.21
+INFO:root:  PSNR Before: 27.71, After: 27.02
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0446.png
+INFO:root:  SNR Before: 3.20, After: 1.67
+INFO:root:  PSNR Before: 28.24, After: 22.78
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0467.png
+INFO:root:  SNR Before: 0.47, After: 0.05
+INFO:root:  PSNR Before: 7.01, After: 8.74
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0233.png
+INFO:root:  SNR Before: 0.46, After: 0.04
+INFO:root:  PSNR Before: 7.29, After: 9.10
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0280.png
+INFO:root:  SNR Before: 12.33, After: 3.33
+INFO:root:  PSNR Before: 16.88, After: 20.56
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0064.png
+INFO:root:  SNR Before: 0.28, After: -0.15
+INFO:root:  PSNR Before: 5.36, After: 7.07
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0627.png
+INFO:root:  SNR Before: 12.39, After: 1.19
+INFO:root:  PSNR Before: 16.75, After: 19.39
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0582.png
+INFO:root:  SNR Before: 3.91, After: 1.62
+INFO:root:  PSNR Before: 29.72, After: 24.04
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0087.png
+INFO:root:  SNR Before: 2.81, After: 1.50
+INFO:root:  PSNR Before: 27.77, After: 23.04
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0099.png
+INFO:root:  SNR Before: 12.32, After: 4.02
+INFO:root:  PSNR Before: 17.08, After: 21.35
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0630.png
+INFO:root:  SNR Before: -0.51, After: -0.97
+INFO:root:  PSNR Before: 5.02, After: 6.69
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0618.png
+INFO:root:  SNR Before: -0.92, After: -1.50
+INFO:root:  PSNR Before: 5.36, After: 6.92
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0675.png
+INFO:root:  SNR Before: 0.39, After: -0.20
+INFO:root:  PSNR Before: 8.68, After: 10.40
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0679.png
+INFO:root:  SNR Before: 0.53, After: 0.06
+INFO:root:  PSNR Before: 11.81, After: 13.33
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0511.png
+INFO:root:  SNR Before: 0.40, After: 0.05
+INFO:root:  PSNR Before: 7.25, After: 8.92
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0711.png
+INFO:root:  SNR Before: 12.39, After: 0.74
+INFO:root:  PSNR Before: 16.51, After: 18.83
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0721.png
+INFO:root:  SNR Before: 0.27, After: -0.22
+INFO:root:  PSNR Before: 6.62, After: 8.36
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0372.png
+INFO:root:  SNR Before: 0.39, After: -0.05
+INFO:root:  PSNR Before: 7.31, After: 8.87
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0607.png
+INFO:root:  SNR Before: 2.74, After: 0.73
+INFO:root:  PSNR Before: 28.23, After: 23.40
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0666.png
+INFO:root:  SNR Before: 12.42, After: 5.27
+INFO:root:  PSNR Before: 16.34, After: 19.97
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0660.png
+INFO:root:  SNR Before: 12.34, After: 3.18
+INFO:root:  PSNR Before: 17.15, After: 20.93
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0493.png
+INFO:root:  SNR Before: 0.50, After: -0.12
+INFO:root:  PSNR Before: 8.39, After: 9.98
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0374.png
+INFO:root:  SNR Before: -0.48, After: -0.95
+INFO:root:  PSNR Before: 5.86, After: 7.54
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0110.png
+INFO:root:  SNR Before: 12.34, After: 3.14
+INFO:root:  PSNR Before: 17.33, After: 21.47
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0227.png
+INFO:root:  SNR Before: 2.34, After: 5.78
+INFO:root:  PSNR Before: 26.63, After: 29.48
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0707.png
+INFO:root:  SNR Before: 12.35, After: 1.72
+INFO:root:  PSNR Before: 17.09, After: 20.12
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0761.png
+INFO:root:  SNR Before: 12.40, After: 2.70
+INFO:root:  PSNR Before: 17.57, After: 21.56
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0658.png
+INFO:root:  SNR Before: 12.32, After: 1.59
+INFO:root:  PSNR Before: 17.23, After: 19.89
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0167.png
+INFO:root:  SNR Before: 0.53, After: 0.17
+INFO:root:  PSNR Before: 7.00, After: 8.75
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0352.png
+INFO:root:  SNR Before: 3.25, After: 2.85
+INFO:root:  PSNR Before: 28.60, After: 27.14
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0328.png
+INFO:root:  SNR Before: 12.33, After: 1.05
+INFO:root:  PSNR Before: 17.26, After: 19.79
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0232.png
+INFO:root:  SNR Before: 0.53, After: 0.20
+INFO:root:  PSNR Before: 8.38, After: 10.18
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0777.png
+INFO:root:  SNR Before: 5.66, After: 2.52
+INFO:root:  PSNR Before: 33.41, After: 24.96
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0696.png
+INFO:root:  SNR Before: 0.12, After: -0.34
+INFO:root:  PSNR Before: 7.06, After: 8.74
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0790.png
+INFO:root:  SNR Before: 12.33, After: 2.48
+INFO:root:  PSNR Before: 17.05, After: 20.93
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0223.png
+INFO:root:  SNR Before: 12.35, After: 4.29
+INFO:root:  PSNR Before: 17.22, After: 21.43
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0395.png
+INFO:root:  SNR Before: 2.29, After: 1.06
+INFO:root:  PSNR Before: 27.15, After: 23.45
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0735.png
+INFO:root:  SNR Before: 0.31, After: 0.02
+INFO:root:  PSNR Before: 7.00, After: 8.80
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0502.png
+INFO:root:  SNR Before: 1.08, After: 1.37
+INFO:root:  PSNR Before: 15.02, After: 16.56
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0525.png
+INFO:root:  SNR Before: -0.40, After: -0.98
+INFO:root:  PSNR Before: 6.22, After: 7.90
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0654.png
+INFO:root:  SNR Before: 0.38, After: 0.19
+INFO:root:  PSNR Before: 7.91, After: 9.42
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0216.png
+INFO:root:  SNR Before: 0.36, After: -0.14
+INFO:root:  PSNR Before: 7.76, After: 9.34
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0400.png
+INFO:root:  SNR Before: 0.62, After: 0.27
+INFO:root:  PSNR Before: 4.83, After: 6.54
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0131.png
+INFO:root:  SNR Before: 2.62, After: 2.46
+INFO:root:  PSNR Before: 26.84, After: 26.40
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0676.png
+INFO:root:  SNR Before: 0.37, After: -0.17
+INFO:root:  PSNR Before: 8.34, After: 9.95
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0305.png
+INFO:root:  SNR Before: 12.37, After: 1.05
+INFO:root:  PSNR Before: 17.04, After: 19.33
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0006.png
+INFO:root:  SNR Before: 0.22, After: -0.35
+INFO:root:  PSNR Before: 6.75, After: 8.45
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0577.png
+INFO:root:  SNR Before: 12.38, After: 1.76
+INFO:root:  PSNR Before: 17.31, After: 20.32
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0545.png
+INFO:root:  SNR Before: 2.31, After: 1.25
+INFO:root:  PSNR Before: 27.08, After: 23.14
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0351.png
+INFO:root:  SNR Before: 12.30, After: 2.30
+INFO:root:  PSNR Before: 17.14, After: 20.43
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0383.png
+INFO:root:  SNR Before: 0.46, After: -0.13
+INFO:root:  PSNR Before: 8.47, After: 10.18
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0157.png
+INFO:root:  SNR Before: 2.94, After: 2.64
+INFO:root:  PSNR Before: 27.85, After: 27.77
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0780.png
+INFO:root:  SNR Before: 3.39, After: 4.11
+INFO:root:  PSNR Before: 28.90, After: 29.43
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0392.png
+INFO:root:  SNR Before: 12.33, After: 0.09
+INFO:root:  PSNR Before: 16.95, After: 18.00
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0792.png
+INFO:root:  SNR Before: 2.29, After: 4.26
+INFO:root:  PSNR Before: 26.17, After: 27.81
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0359.png
+INFO:root:  SNR Before: 12.36, After: 1.18
+INFO:root:  PSNR Before: 17.42, After: 20.52
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0386.png
+INFO:root:  SNR Before: 0.41, After: -0.04
+INFO:root:  PSNR Before: 7.43, After: 9.08
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0699.png
+INFO:root:  SNR Before: 12.35, After: 1.51
+INFO:root:  PSNR Before: 17.35, After: 20.45
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0178.png
+INFO:root:  SNR Before: 0.45, After: -0.01
+INFO:root:  PSNR Before: 7.88, After: 9.61
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0092.png
+INFO:root:  SNR Before: 12.35, After: 0.92
+INFO:root:  PSNR Before: 17.65, After: 19.98
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0376.png
+INFO:root:  SNR Before: 4.08, After: 2.01
+INFO:root:  PSNR Before: 30.76, After: 26.89
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0120.png
+INFO:root:  SNR Before: 12.34, After: 3.28
+INFO:root:  PSNR Before: 16.75, After: 20.37
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0187.png
+INFO:root:  SNR Before: 12.34, After: 1.07
+INFO:root:  PSNR Before: 17.24, After: 19.96
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0331.png
+INFO:root:  SNR Before: 12.35, After: 0.96
+INFO:root:  PSNR Before: 17.24, After: 20.36
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0745.png
+INFO:root:  SNR Before: 2.45, After: 0.87
+INFO:root:  PSNR Before: 27.21, After: 22.81
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0132.png
+INFO:root:  SNR Before: 12.34, After: 1.30
+INFO:root:  PSNR Before: 17.33, After: 19.87
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0045.png
+INFO:root:  SNR Before: 1.70, After: 1.92
+INFO:root:  PSNR Before: 26.90, After: 26.45
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0782.png
+INFO:root:  SNR Before: 2.38, After: 3.02
+INFO:root:  PSNR Before: 26.30, After: 26.67
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0424.png
+INFO:root:  SNR Before: 0.41, After: -0.21
+INFO:root:  PSNR Before: 8.29, After: 10.04
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0641.png
+INFO:root:  SNR Before: 12.31, After: 1.56
+INFO:root:  PSNR Before: 17.36, After: 20.66
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0315.png
+INFO:root:  SNR Before: 1.79, After: 4.27
+INFO:root:  PSNR Before: 27.35, After: 27.82
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0058.png
+INFO:root:  SNR Before: 0.35, After: -0.08
+INFO:root:  PSNR Before: 6.29, After: 7.94
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0606.png
+INFO:root:  SNR Before: 2.75, After: 1.64
+INFO:root:  PSNR Before: 27.88, After: 23.44
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0688.png
+INFO:root:  SNR Before: 3.38, After: 3.55
+INFO:root:  PSNR Before: 29.65, After: 29.03
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0262.png
+INFO:root:  SNR Before: 12.33, After: 1.02
+INFO:root:  PSNR Before: 17.09, After: 19.48
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0526.png
+INFO:root:  SNR Before: 0.44, After: 0.04
+INFO:root:  PSNR Before: 5.83, After: 7.49
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0470.png
+INFO:root:  SNR Before: 12.34, After: 1.02
+INFO:root:  PSNR Before: 17.71, After: 20.67
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0563.png
+INFO:root:  SNR Before: 0.24, After: -0.15
+INFO:root:  PSNR Before: 6.24, After: 7.91
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0103.png
+INFO:root:  SNR Before: 12.08, After: 0.32
+INFO:root:  PSNR Before: 17.17, After: 19.64
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0026.png
+INFO:root:  SNR Before: 2.50, After: -0.53
+INFO:root:  PSNR Before: 28.39, After: 21.10
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0573.png
+INFO:root:  SNR Before: 12.35, After: 3.34
+INFO:root:  PSNR Before: 17.44, After: 22.04
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0485.png
+INFO:root:  SNR Before: 12.35, After: 1.84
+INFO:root:  PSNR Before: 17.13, After: 20.00
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0594.png
+INFO:root:  SNR Before: 2.48, After: 1.62
+INFO:root:  PSNR Before: 27.58, After: 24.87
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0041.png
+INFO:root:  SNR Before: 12.35, After: 2.24
+INFO:root:  PSNR Before: 17.13, After: 20.74
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0090.png
+INFO:root:  SNR Before: 2.86, After: 1.80
+INFO:root:  PSNR Before: 27.84, After: 24.74
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0703.png
+INFO:root:  SNR Before: 0.51, After: 0.05
+INFO:root:  PSNR Before: 9.55, After: 11.33
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0253.png
+INFO:root:  SNR Before: 2.86, After: 2.03
+INFO:root:  PSNR Before: 28.05, After: 26.84
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0680.png
+INFO:root:  SNR Before: 12.36, After: 1.55
+INFO:root:  PSNR Before: 17.06, After: 19.75
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0673.png
+INFO:root:  SNR Before: 0.08, After: -0.44
+INFO:root:  PSNR Before: 6.94, After: 8.67
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0288.png
+INFO:root:  SNR Before: 12.34, After: 1.33
+INFO:root:  PSNR Before: 17.20, After: 19.84
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0455.png
+INFO:root:  SNR Before: 12.36, After: 3.32
+INFO:root:  PSNR Before: 17.47, After: 21.68
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0329.png
+INFO:root:  SNR Before: 12.36, After: 3.40
+INFO:root:  PSNR Before: 17.07, After: 21.18
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0461.png
+INFO:root:  SNR Before: 2.80, After: 3.50
+INFO:root:  PSNR Before: 27.44, After: 29.60
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0505.png
+INFO:root:  SNR Before: 0.37, After: -0.12
+INFO:root:  PSNR Before: 9.27, After: 10.64
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0444.png
+INFO:root:  SNR Before: 12.32, After: 3.10
+INFO:root:  PSNR Before: 16.99, After: 21.04
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0714.png
+INFO:root:  SNR Before: 12.34, After: 1.71
+INFO:root:  PSNR Before: 17.59, After: 20.84
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0542.png
+INFO:root:  SNR Before: 0.42, After: 0.02
+INFO:root:  PSNR Before: 6.67, After: 8.35
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0421.png
+INFO:root:  SNR Before: 0.14, After: -0.34
+INFO:root:  PSNR Before: 6.02, After: 7.64
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0368.png
+INFO:root:  SNR Before: 0.41, After: 0.00
+INFO:root:  PSNR Before: 7.39, After: 9.01
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0107.png
+INFO:root:  SNR Before: 12.34, After: 1.29
+INFO:root:  PSNR Before: 17.03, After: 18.96
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0277.png
+INFO:root:  SNR Before: 0.48, After: 0.14
+INFO:root:  PSNR Before: 8.14, After: 9.70
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0715.png
+INFO:root:  SNR Before: 12.33, After: 0.86
+INFO:root:  PSNR Before: 17.24, After: 19.54
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0093.png
+INFO:root:  SNR Before: 3.24, After: 1.32
+INFO:root:  PSNR Before: 28.66, After: 23.39
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0292.png
+INFO:root:  SNR Before: 12.37, After: 1.15
+INFO:root:  PSNR Before: 17.32, After: 19.77
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0413.png
+INFO:root:  SNR Before: 2.39, After: 2.49
+INFO:root:  PSNR Before: 27.41, After: 26.42
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0555.png
+INFO:root:  SNR Before: 0.40, After: -0.08
+INFO:root:  PSNR Before: 6.22, After: 7.93
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0587.png
+INFO:root:  SNR Before: -2.15, After: -2.75
+INFO:root:  PSNR Before: 4.51, After: 6.18
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0028.png
+INFO:root:  SNR Before: 0.39, After: -0.05
+INFO:root:  PSNR Before: 8.35, After: 9.93
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0698.png
+INFO:root:  SNR Before: 4.58, After: 1.17
+INFO:root:  PSNR Before: 30.46, After: 24.64
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0185.png
+INFO:root:  SNR Before: 0.48, After: 0.14
+INFO:root:  PSNR Before: 5.41, After: 7.13
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0091.png
+INFO:root:  SNR Before: 0.47, After: 0.02
+INFO:root:  PSNR Before: 8.25, After: 9.98
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0150.png
+INFO:root:  SNR Before: 2.39, After: 1.24
+INFO:root:  PSNR Before: 27.54, After: 21.97
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0566.png
+INFO:root:  SNR Before: 12.36, After: 1.28
+INFO:root:  PSNR Before: 17.42, After: 20.25
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0488.png
+INFO:root:  SNR Before: 3.71, After: 4.30
+INFO:root:  PSNR Before: 29.16, After: 30.58
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0318.png
+INFO:root:  SNR Before: 12.32, After: 2.14
+INFO:root:  PSNR Before: 16.82, After: 20.11
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0256.png
+INFO:root:  SNR Before: 12.16, After: 1.31
+INFO:root:  PSNR Before: 16.14, After: 19.25
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0457.png
+INFO:root:  SNR Before: -0.10, After: -0.56
+INFO:root:  PSNR Before: 7.26, After: 8.84
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0269.png
+INFO:root:  SNR Before: 0.02, After: -0.57
+INFO:root:  PSNR Before: 6.89, After: 8.62
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0521.png
+INFO:root:  SNR Before: 2.47, After: 1.08
+INFO:root:  PSNR Before: 27.56, After: 21.87
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0149.png
+INFO:root:  SNR Before: 0.51, After: 0.07
+INFO:root:  PSNR Before: 9.66, After: 11.19
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0725.png
+INFO:root:  SNR Before: 12.34, After: 1.67
+INFO:root:  PSNR Before: 17.63, After: 21.42
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0162.png
+INFO:root:  SNR Before: 12.36, After: 1.29
+INFO:root:  PSNR Before: 17.42, After: 20.23
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0562.png
+INFO:root:  SNR Before: 12.36, After: 1.68
+INFO:root:  PSNR Before: 17.22, After: 19.42
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0257.png
+INFO:root:  SNR Before: 2.42, After: 0.06
+INFO:root:  PSNR Before: 27.74, After: 22.40
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0126.png
+INFO:root:  SNR Before: 0.18, After: -0.24
+INFO:root:  PSNR Before: 5.77, After: 7.42
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0651.png
+INFO:root:  SNR Before: 2.43, After: 0.82
+INFO:root:  PSNR Before: 28.08, After: 23.49
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0147.png
+INFO:root:  SNR Before: 0.41, After: -0.09
+INFO:root:  PSNR Before: 9.93, After: 11.45
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0569.png
+INFO:root:  SNR Before: 5.00, After: 2.47
+INFO:root:  PSNR Before: 32.03, After: 24.52
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0604.png
+INFO:root:  SNR Before: 12.35, After: 0.46
+INFO:root:  PSNR Before: 17.35, After: 18.54
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0433.png
+INFO:root:  SNR Before: 3.03, After: 1.45
+INFO:root:  PSNR Before: 28.77, After: 24.88
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0085.png
+INFO:root:  SNR Before: 12.35, After: 2.05
+INFO:root:  PSNR Before: 16.94, After: 20.36
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0576.png
+INFO:root:  SNR Before: 0.44, After: 0.12
+INFO:root:  PSNR Before: 8.69, After: 10.35
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0018.png
+INFO:root:  SNR Before: 3.66, After: 3.67
+INFO:root:  PSNR Before: 28.30, After: 27.94
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0500.png
+INFO:root:  SNR Before: 12.36, After: 2.26
+INFO:root:  PSNR Before: 17.05, After: 20.15
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0170.png
+INFO:root:  SNR Before: 12.28, After: 1.06
+INFO:root:  PSNR Before: 16.68, After: 19.18
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0749.png
+INFO:root:  SNR Before: 12.33, After: 1.84
+INFO:root:  PSNR Before: 16.93, After: 20.15
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0217.png
+INFO:root:  SNR Before: 0.38, After: -0.03
+INFO:root:  PSNR Before: 7.47, After: 9.31
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0695.png
+INFO:root:  SNR Before: 2.43, After: 2.83
+INFO:root:  PSNR Before: 26.93, After: 26.72
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0364.png
+INFO:root:  SNR Before: 12.29, After: 6.60
+INFO:root:  PSNR Before: 16.76, After: 21.07
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0700.png
+INFO:root:  SNR Before: 12.36, After: -0.17
+INFO:root:  PSNR Before: 16.42, After: 17.69
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0025.png
+INFO:root:  SNR Before: 0.50, After: 0.27
+INFO:root:  PSNR Before: 6.45, After: 8.27
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0515.png
+INFO:root:  SNR Before: 0.04, After: -0.45
+INFO:root:  PSNR Before: 6.13, After: 7.78
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0655.png
+INFO:root:  SNR Before: 3.62, After: 1.97
+INFO:root:  PSNR Before: 29.47, After: 24.84
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0052.png
+INFO:root:  SNR Before: 12.35, After: 1.49
+INFO:root:  PSNR Before: 17.65, After: 20.94
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0023.png
+INFO:root:  SNR Before: 0.29, After: -0.23
+INFO:root:  PSNR Before: 7.38, After: 9.19
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0379.png
+INFO:root:  SNR Before: 2.35, After: 1.35
+INFO:root:  PSNR Before: 27.17, After: 24.04
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0632.png
+INFO:root:  SNR Before: 12.35, After: -0.06
+INFO:root:  PSNR Before: 17.83, After: 17.76
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0077.png
+INFO:root:  SNR Before: 12.34, After: 5.24
+INFO:root:  PSNR Before: 17.80, After: 23.56
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0625.png
+INFO:root:  SNR Before: 12.36, After: 2.13
+INFO:root:  PSNR Before: 16.75, After: 19.42
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0263.png
+INFO:root:  SNR Before: -0.81, After: -1.33
+INFO:root:  PSNR Before: 6.22, After: 7.86
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0758.png
+INFO:root:  SNR Before: 0.27, After: -0.12
+INFO:root:  PSNR Before: 7.40, After: 9.05
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0728.png
+INFO:root:  SNR Before: 0.51, After: 0.01
+INFO:root:  PSNR Before: 10.58, After: 12.27
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0519.png
+INFO:root:  SNR Before: 0.47, After: 0.26
+INFO:root:  PSNR Before: 7.47, After: 9.36
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0415.png
+INFO:root:  SNR Before: 0.33, After: -0.16
+INFO:root:  PSNR Before: 7.14, After: 8.78
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0636.png
+INFO:root:  SNR Before: 12.33, After: 0.81
+INFO:root:  PSNR Before: 16.99, After: 19.54
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0736.png
+INFO:root:  SNR Before: 2.19, After: 2.36
+INFO:root:  PSNR Before: 27.04, After: 28.15
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0532.png
+INFO:root:  SNR Before: 12.33, After: 4.63
+INFO:root:  PSNR Before: 17.00, After: 20.83
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0279.png
+INFO:root:  SNR Before: 12.34, After: 2.55
+INFO:root:  PSNR Before: 17.56, After: 21.71
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0608.png
+INFO:root:  SNR Before: 12.38, After: 2.18
+INFO:root:  PSNR Before: 17.07, After: 20.18
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0350.png
+INFO:root:  SNR Before: 3.34, After: 2.74
+INFO:root:  PSNR Before: 28.63, After: 26.81
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0382.png
+INFO:root:  SNR Before: 12.31, After: 0.80
+INFO:root:  PSNR Before: 16.85, After: 18.62
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0124.png
+INFO:root:  SNR Before: 0.53, After: 0.15
+INFO:root:  PSNR Before: 4.44, After: 6.13
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0341.png
+INFO:root:  SNR Before: 12.40, After: 1.18
+INFO:root:  PSNR Before: 17.05, After: 20.39
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0347.png
+INFO:root:  SNR Before: 2.30, After: 1.26
+INFO:root:  PSNR Before: 26.71, After: 22.92
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0146.png
+INFO:root:  SNR Before: 12.35, After: 1.87
+INFO:root:  PSNR Before: 16.81, After: 19.40
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0733.png
+INFO:root:  SNR Before: 2.61, After: 1.10
+INFO:root:  PSNR Before: 27.43, After: 22.50
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0043.png
+INFO:root:  SNR Before: 0.58, After: 0.11
+INFO:root:  PSNR Before: 7.93, After: 9.66
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0796.png
+INFO:root:  SNR Before: 12.35, After: 3.74
+INFO:root:  PSNR Before: 17.10, After: 21.36
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0747.png
+INFO:root:  SNR Before: 12.33, After: 2.14
+INFO:root:  PSNR Before: 16.42, After: 19.67
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0460.png
+INFO:root:  SNR Before: 12.36, After: 1.57
+INFO:root:  PSNR Before: 17.54, After: 20.97
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0517.png
+INFO:root:  SNR Before: 0.29, After: -0.32
+INFO:root:  PSNR Before: 8.15, After: 9.81
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0720.png
+INFO:root:  SNR Before: 2.55, After: 1.83
+INFO:root:  PSNR Before: 27.02, After: 23.27
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0060.png
+INFO:root:  SNR Before: 0.46, After: -0.07
+INFO:root:  PSNR Before: 8.72, After: 10.39
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0722.png
+INFO:root:  SNR Before: 0.53, After: 0.20
+INFO:root:  PSNR Before: 5.03, After: 6.77
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0013.png
+INFO:root:  SNR Before: 5.73, After: 9.34
+INFO:root:  PSNR Before: 30.81, After: 28.20
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0295.png
+INFO:root:  SNR Before: 12.35, After: 1.81
+INFO:root:  PSNR Before: 17.46, After: 20.86
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0396.png
+INFO:root:  SNR Before: 0.08, After: -0.51
+INFO:root:  PSNR Before: 7.42, After: 9.04
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0459.png
+INFO:root:  SNR Before: 0.37, After: -0.10
+INFO:root:  PSNR Before: 6.47, After: 8.18
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0403.png
+INFO:root:  SNR Before: 12.35, After: 0.35
+INFO:root:  PSNR Before: 17.06, After: 18.45
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0420.png
+INFO:root:  SNR Before: 2.93, After: 1.54
+INFO:root:  PSNR Before: 27.91, After: 23.93
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0029.png
+INFO:root:  SNR Before: 12.32, After: 0.99
+INFO:root:  PSNR Before: 16.77, After: 18.86
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0273.png
+INFO:root:  SNR Before: 12.32, After: -0.16
+INFO:root:  PSNR Before: 17.01, After: 19.08
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0056.png
+INFO:root:  SNR Before: 12.36, After: 1.11
+INFO:root:  PSNR Before: 17.44, After: 19.91
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0787.png
+INFO:root:  SNR Before: 3.43, After: 0.91
+INFO:root:  PSNR Before: 29.18, After: 22.75
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0645.png
+INFO:root:  SNR Before: 4.36, After: 0.91
+INFO:root:  PSNR Before: 29.87, After: 22.25
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0492.png
+INFO:root:  SNR Before: 2.24, After: 1.40
+INFO:root:  PSNR Before: 26.64, After: 23.08
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0201.png
+INFO:root:  SNR Before: 12.34, After: 1.15
+INFO:root:  PSNR Before: 17.26, After: 19.60
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0353.png
+INFO:root:  SNR Before: 3.14, After: 3.41
+INFO:root:  PSNR Before: 28.43, After: 26.92
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0282.png
+INFO:root:  SNR Before: 3.15, After: 4.35
+INFO:root:  PSNR Before: 28.34, After: 28.86
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0323.png
+INFO:root:  SNR Before: 12.34, After: 1.86
+INFO:root:  PSNR Before: 17.35, After: 20.83
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0409.png
+INFO:root:  SNR Before: 12.32, After: 1.27
+INFO:root:  PSNR Before: 17.03, After: 19.52
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0649.png
+INFO:root:  SNR Before: 2.55, After: 0.71
+INFO:root:  PSNR Before: 27.36, After: 22.32
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0289.png
+INFO:root:  SNR Before: 0.50, After: 0.09
+INFO:root:  PSNR Before: 9.12, After: 10.88
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0615.png
+INFO:root:  SNR Before: 2.54, After: 0.66
+INFO:root:  PSNR Before: 27.78, After: 22.86
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0795.png
+INFO:root:  SNR Before: 12.32, After: 1.09
+INFO:root:  PSNR Before: 16.92, After: 19.78
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0731.png
+INFO:root:  SNR Before: 5.14, After: 3.91
+INFO:root:  PSNR Before: 30.73, After: 27.16
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0776.png
+INFO:root:  SNR Before: 12.36, After: 1.31
+INFO:root:  PSNR Before: 17.66, After: 21.01
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0549.png
+INFO:root:  SNR Before: 0.35, After: -0.07
+INFO:root:  PSNR Before: 6.81, After: 8.54
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0401.png
+INFO:root:  SNR Before: 12.37, After: 2.02
+INFO:root:  PSNR Before: 16.62, After: 20.00
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0202.png
+INFO:root:  SNR Before: 0.45, After: 0.03
+INFO:root:  PSNR Before: 6.20, After: 7.95
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0738.png
+INFO:root:  SNR Before: 0.48, After: 0.17
+INFO:root:  PSNR Before: 8.40, After: 10.13
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0344.png
+INFO:root:  SNR Before: 12.36, After: 1.99
+INFO:root:  PSNR Before: 17.57, After: 20.91
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0207.png
+INFO:root:  SNR Before: 0.34, After: -0.26
+INFO:root:  PSNR Before: 7.66, After: 9.30
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0301.png
+INFO:root:  SNR Before: 12.35, After: 1.40
+INFO:root:  PSNR Before: 17.37, After: 19.97
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0762.png
+INFO:root:  SNR Before: 2.38, After: 4.56
+INFO:root:  PSNR Before: 26.47, After: 28.41
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0012.png
+INFO:root:  SNR Before: 12.33, After: 1.06
+INFO:root:  PSNR Before: 17.20, After: 20.26
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0507.png
+INFO:root:  SNR Before: 12.33, After: 3.00
+INFO:root:  PSNR Before: 16.62, After: 20.29
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0805.png
+INFO:root:  SNR Before: 0.26, After: -0.33
+INFO:root:  PSNR Before: 8.88, After: 10.62
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0818.png
+INFO:root:  SNR Before: 2.28, After: 2.34
+INFO:root:  PSNR Before: 26.75, After: 26.84
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0854.png
+INFO:root:  SNR Before: 2.48, After: 1.81
+INFO:root:  PSNR Before: 26.93, After: 25.92
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0863.png
+INFO:root:  SNR Before: 12.34, After: 2.93
+INFO:root:  PSNR Before: 17.07, After: 20.93
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0831.png
+INFO:root:  SNR Before: 3.54, After: 2.25
+INFO:root:  PSNR Before: 29.28, After: 27.35
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0829.png
+INFO:root:  SNR Before: 12.34, After: 0.44
+INFO:root:  PSNR Before: 17.37, After: 18.65
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0827.png
+INFO:root:  SNR Before: 0.55, After: 0.20
+INFO:root:  PSNR Before: 4.47, After: 6.18
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0860.png
+INFO:root:  SNR Before: 3.46, After: 1.20
+INFO:root:  PSNR Before: 28.70, After: 21.47
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0845.png
+INFO:root:  SNR Before: 2.72, After: 3.48
+INFO:root:  PSNR Before: 27.41, After: 26.17
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0891.png
+INFO:root:  SNR Before: 12.35, After: 1.23
+INFO:root:  PSNR Before: 17.35, After: 20.24
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0824.png
+INFO:root:  SNR Before: 12.34, After: 2.50
+INFO:root:  PSNR Before: 17.12, After: 20.92
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0826.png
+INFO:root:  SNR Before: 0.27, After: -0.51
+INFO:root:  PSNR Before: 7.70, After: 9.32
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0844.png
+INFO:root:  SNR Before: 0.57, After: 0.61
+INFO:root:  PSNR Before: 11.50, After: 12.93
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0862.png
+INFO:root:  SNR Before: 1.96, After: 1.08
+INFO:root:  PSNR Before: 26.43, After: 22.86
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0813.png
+INFO:root:  SNR Before: 12.40, After: 3.22
+INFO:root:  PSNR Before: 16.83, After: 20.42
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0896.png
+INFO:root:  SNR Before: 0.61, After: 0.18
+INFO:root:  PSNR Before: 12.02, After: 13.64
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0889.png
+INFO:root:  SNR Before: 2.74, After: 0.81
+INFO:root:  PSNR Before: 28.02, After: 24.74
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0821.png
+INFO:root:  SNR Before: 12.31, After: 0.48
+INFO:root:  PSNR Before: 16.84, After: 19.88
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0814.png
+INFO:root:  SNR Before: 3.03, After: 2.21
+INFO:root:  PSNR Before: 28.82, After: 27.00
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0869.png
+INFO:root:  SNR Before: 12.34, After: 1.67
+INFO:root:  PSNR Before: 17.42, After: 20.73
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0875.png
+INFO:root:  SNR Before: 3.36, After: 0.95
+INFO:root:  PSNR Before: 29.07, After: 22.74
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0874.png
+INFO:root:  SNR Before: 0.32, After: -0.35
+INFO:root:  PSNR Before: 9.26, After: 11.05
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0856.png
+INFO:root:  SNR Before: 12.35, After: 1.57
+INFO:root:  PSNR Before: 16.92, After: 19.38
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0864.png
+INFO:root:  SNR Before: 0.44, After: 0.10
+INFO:root:  PSNR Before: 6.08, After: 7.90
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0881.png
+INFO:root:  SNR Before: 0.40, After: -0.14
+INFO:root:  PSNR Before: 9.36, After: 11.08
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0823.png
+INFO:root:  SNR Before: 2.40, After: 1.23
+INFO:root:  PSNR Before: 26.76, After: 22.65
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0876.png
+INFO:root:  SNR Before: -0.52, After: -0.97
+INFO:root:  PSNR Before: 4.83, After: 6.51
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0883.png
+INFO:root:  SNR Before: 0.45, After: 0.08
+INFO:root:  PSNR Before: 7.68, After: 9.37
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0890.png
+INFO:root:  SNR Before: 0.29, After: -0.30
+INFO:root:  PSNR Before: 8.11, After: 9.81
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0816.png
+INFO:root:  SNR Before: 12.37, After: 2.59
+INFO:root:  PSNR Before: 17.57, After: 22.44
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0830.png
+INFO:root:  SNR Before: 0.38, After: -0.19
+INFO:root:  PSNR Before: 8.58, After: 10.28
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0885.png
+INFO:root:  SNR Before: 12.36, After: 1.57
+INFO:root:  PSNR Before: 17.48, After: 19.83
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0837.png
+INFO:root:  SNR Before: 0.32, After: -0.16
+INFO:root:  PSNR Before: 6.10, After: 7.81
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0855.png
+INFO:root:  SNR Before: 0.31, After: -0.23
+INFO:root:  PSNR Before: 7.74, After: 9.47
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0873.png
+INFO:root:  SNR Before: 0.48, After: 0.03
+INFO:root:  PSNR Before: 7.30, After: 8.98
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0809.png
+INFO:root:  SNR Before: 2.65, After: 0.96
+INFO:root:  PSNR Before: 27.71, After: 22.40
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0893.png
+INFO:root:  SNR Before: 4.26, After: 4.03
+INFO:root:  PSNR Before: 29.69, After: 29.00
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0892.png
+INFO:root:  SNR Before: 2.24, After: 1.77
+INFO:root:  PSNR Before: 26.90, After: 25.17
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0803.png
+INFO:root:  SNR Before: 0.44, After: -0.07
+INFO:root:  PSNR Before: 7.84, After: 9.37
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0897.png
+INFO:root:  SNR Before: -0.16, After: -0.64
+INFO:root:  PSNR Before: 5.77, After: 7.36
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0867.png
+INFO:root:  SNR Before: 0.40, After: -0.06
+INFO:root:  PSNR Before: 6.77, After: 8.48
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0843.png
+INFO:root:  SNR Before: -0.37, After: 3.72
+INFO:root:  PSNR Before: 33.10, After: 35.87
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0870.png
+INFO:root:  SNR Before: 0.37, After: -0.11
+INFO:root:  PSNR Before: 6.69, After: 8.43
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0835.png
+INFO:root:  SNR Before: 12.34, After: 0.93
+INFO:root:  PSNR Before: 17.29, After: 19.77
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0848.png
+INFO:root:  SNR Before: 0.06, After: -0.36
+INFO:root:  PSNR Before: 6.63, After: 8.25
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0851.png
+INFO:root:  SNR Before: -0.57, After: -0.99
+INFO:root:  PSNR Before: 5.76, After: 7.34
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0839.png
+INFO:root:  SNR Before: 12.34, After: 0.39
+INFO:root:  PSNR Before: 16.49, After: 19.49
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0840.png
+INFO:root:  SNR Before: 3.86, After: 3.34
+INFO:root:  PSNR Before: 29.73, After: 28.32
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0807.png
+INFO:root:  SNR Before: 12.32, After: 0.20
+INFO:root:  PSNR Before: 16.99, After: 18.07
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0887.png
+INFO:root:  SNR Before: 0.25, After: 0.09
+INFO:root:  PSNR Before: 7.57, After: 9.12
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0838.png
+INFO:root:  SNR Before: 3.47, After: 1.50
+INFO:root:  PSNR Before: 28.83, After: 24.41
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0811.png
+INFO:root:  SNR Before: 12.34, After: 2.20
+INFO:root:  PSNR Before: 16.87, After: 20.16
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0819.png
+INFO:root:  SNR Before: 0.45, After: 0.03
+INFO:root:  PSNR Before: 7.09, After: 8.83
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0900.png
+INFO:root:  SNR Before: 12.25, After: 0.09
+INFO:root:  PSNR Before: 16.32, After: 18.90
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0884.png
+INFO:root:  SNR Before: 12.34, After: 0.81
+INFO:root:  PSNR Before: 17.26, After: 19.80
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0850.png
+INFO:root:  SNR Before: 12.35, After: 1.36
+INFO:root:  PSNR Before: 17.39, After: 21.18
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0877.png
+INFO:root:  SNR Before: 4.08, After: 4.95
+INFO:root:  PSNR Before: 31.44, After: 30.32
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0879.png
+INFO:root:  SNR Before: 3.15, After: 2.06
+INFO:root:  PSNR Before: 27.87, After: 23.10
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0886.png
+INFO:root:  SNR Before: 0.20, After: -0.33
+INFO:root:  PSNR Before: 6.80, After: 8.56
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0847.png
+INFO:root:  SNR Before: 2.67, After: 2.42
+INFO:root:  PSNR Before: 27.85, After: 27.35
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0871.png
+INFO:root:  SNR Before: 12.35, After: 2.09
+INFO:root:  PSNR Before: 17.65, After: 21.59
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0878.png
+INFO:root:  SNR Before: 12.34, After: 3.33
+INFO:root:  PSNR Before: 17.60, After: 22.54
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0852.png
+INFO:root:  SNR Before: 12.22, After: -0.01
+INFO:root:  PSNR Before: 15.81, After: 18.89
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0832.png
+INFO:root:  SNR Before: 3.33, After: 2.96
+INFO:root:  PSNR Before: 28.72, After: 28.11
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0812.png
+INFO:root:  SNR Before: 2.89, After: 2.24
+INFO:root:  PSNR Before: 27.61, After: 24.56
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0888.png
+INFO:root:  SNR Before: 0.38, After: -0.10
+INFO:root:  PSNR Before: 7.44, After: 9.03
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0806.png
+INFO:root:  SNR Before: 2.56, After: 1.20
+INFO:root:  PSNR Before: 27.39, After: 23.22
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0849.png
+INFO:root:  SNR Before: 3.49, After: 0.79
+INFO:root:  PSNR Before: 28.86, After: 22.50
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0858.png
+INFO:root:  SNR Before: 12.27, After: 0.96
+INFO:root:  PSNR Before: 16.32, After: 19.07
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0808.png
+INFO:root:  SNR Before: 12.32, After: 0.63
+INFO:root:  PSNR Before: 16.92, After: 19.15
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0872.png
+INFO:root:  SNR Before: 2.60, After: 1.83
+INFO:root:  PSNR Before: 27.29, After: 23.59
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0825.png
+INFO:root:  SNR Before: 12.35, After: 1.60
+INFO:root:  PSNR Before: 17.37, After: 20.82
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0828.png
+INFO:root:  SNR Before: 12.28, After: -1.51
+INFO:root:  PSNR Before: 16.31, After: 17.83
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0842.png
+INFO:root:  SNR Before: 0.55, After: 0.11
+INFO:root:  PSNR Before: 9.51, After: 11.22
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0834.png
+INFO:root:  SNR Before: 2.10, After: 0.76
+INFO:root:  PSNR Before: 27.23, After: 23.29
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0898.png
+INFO:root:  SNR Before: 12.35, After: 0.88
+INFO:root:  PSNR Before: 17.52, After: 19.39
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0817.png
+INFO:root:  SNR Before: 12.35, After: 1.26
+INFO:root:  PSNR Before: 17.30, After: 19.95
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0895.png
+INFO:root:  SNR Before: 3.28, After: 1.47
+INFO:root:  PSNR Before: 28.46, After: 22.05
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0822.png
+INFO:root:  SNR Before: 12.34, After: 1.15
+INFO:root:  PSNR Before: 16.98, After: 19.63
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0899.png
+INFO:root:  SNR Before: 12.27, After: 1.13
+INFO:root:  PSNR Before: 16.86, After: 19.59
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0810.png
+INFO:root:  SNR Before: 0.33, After: -0.22
+INFO:root:  PSNR Before: 7.64, After: 9.42
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0802.png
+INFO:root:  SNR Before: -0.35, After: -0.92
+INFO:root:  PSNR Before: 5.68, After: 7.27
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0861.png
+INFO:root:  SNR Before: -1.10, After: -1.62
+INFO:root:  PSNR Before: 5.28, After: 6.92
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0801.png
+INFO:root:  SNR Before: 12.34, After: 2.83
+INFO:root:  PSNR Before: 17.52, After: 22.10
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0820.png
+INFO:root:  SNR Before: 2.57, After: 1.90
+INFO:root:  PSNR Before: 27.67, After: 26.43
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0880.png
+INFO:root:  SNR Before: 0.33, After: -0.17
+INFO:root:  PSNR Before: 7.88, After: 9.72
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0815.png
+INFO:root:  SNR Before: 3.24, After: 2.31
+INFO:root:  PSNR Before: 28.80, After: 25.76
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0865.png
+INFO:root:  SNR Before: 0.39, After: -0.07
+INFO:root:  PSNR Before: 8.05, After: 9.81
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0804.png
+INFO:root:  SNR Before: 12.35, After: 1.66
+INFO:root:  PSNR Before: 17.28, After: 20.33
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0841.png
+INFO:root:  SNR Before: 0.56, After: 0.17
+INFO:root:  PSNR Before: 5.45, After: 7.19
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0846.png
+INFO:root:  SNR Before: -0.04, After: -0.41
+INFO:root:  PSNR Before: 7.72, After: 9.40
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0853.png
+INFO:root:  SNR Before: 0.37, After: 0.00
+INFO:root:  PSNR Before: 5.38, After: 7.05
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0894.png
+INFO:root:  SNR Before: 0.46, After: 0.02
+INFO:root:  PSNR Before: 10.97, After: 12.48
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0859.png
+INFO:root:  SNR Before: 2.33, After: 1.00
+INFO:root:  PSNR Before: 26.70, After: 22.44
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0857.png
+INFO:root:  SNR Before: 2.21, After: 0.89
+INFO:root:  PSNR Before: 27.09, After: 23.26
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0836.png
+INFO:root:  SNR Before: 12.32, After: 2.35
+INFO:root:  PSNR Before: 17.03, After: 20.05
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0833.png
+INFO:root:  SNR Before: 2.07, After: 4.30
+INFO:root:  PSNR Before: 25.85, After: 29.40
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0868.png
+INFO:root:  SNR Before: 2.72, After: 6.57
+INFO:root:  PSNR Before: 25.24, After: 30.56
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0882.png
+INFO:root:  SNR Before: 2.98, After: 0.64
+INFO:root:  PSNR Before: 27.78, After: 20.65
+INFO:root:--------------------------------------------------
+INFO:root:Image: 0866.png
+INFO:root:  SNR Before: 2.34, After: 3.06
+INFO:root:  PSNR Before: 27.04, After: 26.82
+INFO:root:--------------------------------------------------

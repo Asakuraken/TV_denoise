@@ -1,12 +1,6 @@
 from skimage import io, img_as_float
 import numpy as np
-
-
-def read_image(image_path, as_gray=True):
-    image = img_as_float(io.imread(image_path, as_gray=as_gray))
-    if as_gray:
-        image = image[..., np.newaxis]
-    return image
+from PIL import Image
 
 def fill_extend(img, out): # fill the border of the image with reflect
     # img.shape [rows, cols, channels]
