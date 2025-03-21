@@ -1,3 +1,5 @@
 dataset/
 __pycache__/
 noise_dataset/
+denoise_example/
+result/

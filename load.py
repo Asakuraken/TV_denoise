@@ -6,12 +6,12 @@ import csv
 from PIL import Image
 from tqdm import tqdm
 
-def add_gaussian_noise(image, mean=0, sigma=25):
+def add_gaussian_noise(image, mean=0, sigma=10):
     noise = np.random.normal(mean, sigma, image.shape).astype(np.uint8)
     noisy_image = cv2.add(image, noise) 
     return noisy_image
 
-def add_salt_and_pepper_noise(image, salt_prob=0.01, pepper_prob=0.01):
+def add_salt_and_pepper_noise(image, salt_prob=0.005, pepper_prob=0.005):
     noisy_image = image.copy()
     total_pixels = image.size
 
@@ -75,14 +75,14 @@ def preprocess(dir, output_dir):
                 else:
                     store_valid_noise_type.append([filename, noise_type])
 
-    with open(os.path.join(output_dir, "train_noise_type.csv"), "w") as f:
+    with open(os.path.join(output_dir, "train_noise_type_new.csv"), "w") as f:
         writer = csv.writer(f)
         writer.writerows(store_train_noise_type)
-    with open(os.path.join(output_dir, "valid_noise_type.csv"), "w") as f:
+    with open(os.path.join(output_dir, "valid_noise_type_new.csv"), "w") as f:
         writer = csv.writer(f)
         writer.writerows(store_valid_noise_type)
 
 
 
 if __name__ == "__main__":
-    preprocess("dataset", "noise_dataset")
+    preprocess("dataset", "noise_dataset_new")
